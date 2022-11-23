@@ -1,0 +1,3642 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:16:02] password = ""  (string)
+[23:16:02] filterscripts = ""  (string)
+[23:16:02] 
+[23:16:02] Server Plugins
+[23:16:02] --------------
+[23:16:02]  Loading plugin: crashdetect
+[23:16:02]   CrashDetect plugin 4.19.4
+[23:16:02]   Loaded.
+[23:16:02]  Loading plugin: sscanf
+[23:16:02] 
+
+[23:16:02]  ===============================
+
+[23:16:02]       sscanf plugin loaded.     
+
+[23:16:02]          Version:  2.8.3        
+
+[23:16:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:16:02]  ===============================
+
+[23:16:02]   Loaded.
+[23:16:02]  Loading plugin: streamer
+[23:16:02] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:16:03]   Loaded.
+[23:16:03]  Loading plugin: mysql
+[23:16:03]  >> plugin.mysql: R41-4 successfully loaded.
+[23:16:03]   Loaded.
+[23:16:03]  Loading plugin: pawncmd
+[23:16:03] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[23:16:03]   Loaded.
+[23:16:03]  Loaded 5 plugins.
+
+[23:16:03] I couldn't load any gamemode scripts. Please verify your server.cfg
+[23:16:03] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:16:22] password = ""  (string)
+[23:16:22] filterscripts = ""  (string)
+[23:16:22] 
+[23:16:22] Server Plugins
+[23:16:22] --------------
+[23:16:22]  Loading plugin: crashdetect
+[23:16:22]   CrashDetect plugin 4.19.4
+[23:16:22]   Loaded.
+[23:16:22]  Loading plugin: sscanf
+[23:16:22] 
+
+[23:16:22]  ===============================
+
+[23:16:22]       sscanf plugin loaded.     
+
+[23:16:22]          Version:  2.8.3        
+
+[23:16:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:16:22]  ===============================
+
+[23:16:22]   Loaded.
+[23:16:22]  Loading plugin: streamer
+[23:16:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:16:22]   Loaded.
+[23:16:22]  Loading plugin: mysql
+[23:16:22]  >> plugin.mysql: R41-4 successfully loaded.
+[23:16:22]   Loaded.
+[23:16:22]  Loading plugin: pawncmd
+[23:16:22] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[23:16:22]   Loaded.
+[23:16:22]  Loaded 5 plugins.
+
+[23:16:22] I couldn't load any gamemode scripts. Please verify your server.cfg
+[23:16:22] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:16:25] password = ""  (string)
+[23:16:25] filterscripts = ""  (string)
+[23:16:25] 
+[23:16:25] Server Plugins
+[23:16:25] --------------
+[23:16:25]  Loading plugin: crashdetect
+[23:16:25]   CrashDetect plugin 4.19.4
+[23:16:25]   Loaded.
+[23:16:25]  Loading plugin: sscanf
+[23:16:25] 
+
+[23:16:25]  ===============================
+
+[23:16:25]       sscanf plugin loaded.     
+
+[23:16:25]          Version:  2.8.3        
+
+[23:16:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:16:25]  ===============================
+
+[23:16:25]   Loaded.
+[23:16:25]  Loading plugin: streamer
+[23:16:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:16:25]   Loaded.
+[23:16:25]  Loading plugin: mysql
+[23:16:25]  >> plugin.mysql: R41-4 successfully loaded.
+[23:16:25]   Loaded.
+[23:16:25]  Loading plugin: pawncmd
+[23:16:25] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[23:16:25]   Loaded.
+[23:16:25]  Loaded 5 plugins.
+
+[23:16:25] I couldn't load any gamemode scripts. Please verify your server.cfg
+[23:16:25] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:16:51] password = ""  (string)
+[23:16:51] filterscripts = ""  (string)
+[23:16:51] 
+[23:16:51] Server Plugins
+[23:16:51] --------------
+[23:16:51]  Loading plugin: crashdetect
+[23:16:51]   CrashDetect plugin 4.19.4
+[23:16:51]   Loaded.
+[23:16:51]  Loading plugin: sscanf
+[23:16:51] 
+
+[23:16:51]  ===============================
+
+[23:16:51]       sscanf plugin loaded.     
+
+[23:16:51]          Version:  2.8.3        
+
+[23:16:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:16:51]  ===============================
+
+[23:16:51]   Loaded.
+[23:16:51]  Loading plugin: streamer
+[23:16:51] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:16:51]   Loaded.
+[23:16:51]  Loading plugin: mysql
+[23:16:51]  >> plugin.mysql: R41-4 successfully loaded.
+[23:16:51]   Loaded.
+[23:16:51]  Loading plugin: pawncmd
+[23:16:51] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[23:16:51]   Loaded.
+[23:16:51]  Loaded 5 plugins.
+
+[23:16:51] 
+[23:16:51] Filterscripts
+[23:16:51] ---------------
+[23:16:51]   Loaded 0 filterscripts.
+
+[23:16:51] Script[gamemodes/samp.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[23:16:51] Failed to load 'gamemodes/samp.amx' script.
+[23:16:51] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:20:37] password = ""  (string)
+[23:20:37] filterscripts = ""  (string)
+[23:20:37] 
+[23:20:37] Server Plugins
+[23:20:37] --------------
+[23:20:37]  Loading plugin: crashdetect
+[23:20:37]   CrashDetect plugin 4.19.4
+[23:20:37]   Loaded.
+[23:20:37]  Loading plugin: sscanf
+[23:20:37] 
+
+[23:20:37]  ===============================
+
+[23:20:37]       sscanf plugin loaded.     
+
+[23:20:37]          Version:  2.8.3        
+
+[23:20:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:20:37]  ===============================
+
+[23:20:37]   Loaded.
+[23:20:37]  Loading plugin: streamer
+[23:20:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:20:37]   Loaded.
+[23:20:37]  Loading plugin: mysql
+[23:20:37]  >> plugin.mysql: R41-4 successfully loaded.
+[23:20:37]   Loaded.
+[23:20:37]  Loading plugin: pawncmd
+[23:20:37] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[23:20:37]   Loaded.
+[23:20:37]  Loaded 5 plugins.
+
+[23:20:37] 
+[23:20:37] Filterscripts
+[23:20:37] ---------------
+[23:20:37]   Loaded 0 filterscripts.
+
+[23:20:37] Script[gamemodes/samp.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[23:20:37] Failed to load 'gamemodes/samp.amx' script.
+[23:20:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:59:08] password = ""  (string)
+[09:59:08] filterscripts = ""  (string)
+[09:59:08] 
+[09:59:08] Server Plugins
+[09:59:08] --------------
+[09:59:08]  Loading plugin: crashdetect
+[09:59:08]   CrashDetect plugin 4.19.4
+[09:59:08]   Loaded.
+[09:59:08]  Loading plugin: sscanf
+[09:59:08] 
+
+[09:59:08]  ===============================
+
+[09:59:08]       sscanf plugin loaded.     
+
+[09:59:08]          Version:  2.8.3        
+
+[09:59:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:59:08]  ===============================
+
+[09:59:08]   Loaded.
+[09:59:08]  Loading plugin: streamer
+[09:59:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:59:08]   Loaded.
+[09:59:08]  Loading plugin: mysql
+[09:59:08]  >> plugin.mysql: R41-4 successfully loaded.
+[09:59:08]   Loaded.
+[09:59:08]  Loading plugin: pawncmd
+[09:59:08] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[09:59:08]   Loaded.
+[09:59:08]  Loaded 5 plugins.
+
+[09:59:08] 
+[09:59:08] Filterscripts
+[09:59:08] ---------------
+[09:59:08]   Loaded 0 filterscripts.
+
+[09:59:08]  
+[09:59:08]  
+[09:59:08]  
+[09:59:08]  ======================================= 
+[09:59:08]  |                                     | 
+[09:59:08]  |        YSI version 4.00.0001        | 
+[09:59:08]  |        By Alex "Y_Less" Cole        | 
+[09:59:08]  |                                     | 
+[09:59:08]  ======================================= 
+[09:59:08]  
+[09:59:08] [OnGameModeInit] Initialising 'Main'...
+[09:59:08] [Database] Failed! Error: [-1] 
+[09:59:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:07:14] password = ""  (string)
+[10:07:14] filterscripts = ""  (string)
+[10:07:14] 
+[10:07:14] Server Plugins
+[10:07:14] --------------
+[10:07:14]  Loading plugin: crashdetect
+[10:07:14]   CrashDetect plugin 4.19.4
+[10:07:14]   Loaded.
+[10:07:14]  Loading plugin: sscanf
+[10:07:14] 
+
+[10:07:14]  ===============================
+
+[10:07:14]       sscanf plugin loaded.     
+
+[10:07:14]          Version:  2.8.3        
+
+[10:07:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:07:14]  ===============================
+
+[10:07:14]   Loaded.
+[10:07:14]  Loading plugin: streamer
+[10:07:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:07:14]   Loaded.
+[10:07:14]  Loading plugin: mysql
+[10:07:14]  >> plugin.mysql: R41-4 successfully loaded.
+[10:07:14]   Loaded.
+[10:07:14]  Loaded 4 plugins.
+
+[10:07:14] 
+[10:07:14] Filterscripts
+[10:07:14] ---------------
+[10:07:14]   Loaded 0 filterscripts.
+
+[10:07:14]  
+[10:07:14]  
+[10:07:14]  
+[10:07:14]  ======================================= 
+[10:07:14]  |                                     | 
+[10:07:14]  |        YSI version 4.00.0001        | 
+[10:07:14]  |        By Alex "Y_Less" Cole        | 
+[10:07:14]  |                                     | 
+[10:07:14]  ======================================= 
+[10:07:14]  
+[10:07:14] [OnGameModeInit] Initialising 'Main'...
+[10:07:14] [Database] Connected!
+[10:07:14] Number of vehicle models: 0
+[10:07:47] [connection] incoming connection: 127.0.0.1:54064 id: 0
+[10:07:48] [join] Cagus has joined the server (0:127.0.0.1)
+[10:07:57] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:10:01] password = ""  (string)
+[10:10:01] filterscripts = ""  (string)
+[10:10:01] 
+[10:10:01] Server Plugins
+[10:10:01] --------------
+[10:10:01]  Loading plugin: crashdetect
+[10:10:01]   CrashDetect plugin 4.19.4
+[10:10:01]   Loaded.
+[10:10:01]  Loading plugin: sscanf
+[10:10:01] 
+
+[10:10:01]  ===============================
+
+[10:10:01]       sscanf plugin loaded.     
+
+[10:10:01]          Version:  2.8.3        
+
+[10:10:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:10:01]  ===============================
+
+[10:10:01]   Loaded.
+[10:10:01]  Loading plugin: streamer
+[10:10:01] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:10:01]   Loaded.
+[10:10:01]  Loading plugin: mysql
+[10:10:01]  >> plugin.mysql: R41-4 successfully loaded.
+[10:10:01]   Loaded.
+[10:10:01]  Loaded 4 plugins.
+
+[10:10:01] 
+[10:10:01] Filterscripts
+[10:10:01] ---------------
+[10:10:01]   Loaded 0 filterscripts.
+
+[10:10:01]  
+[10:10:01]  
+[10:10:01]  
+[10:10:01]  ======================================= 
+[10:10:01]  |                                     | 
+[10:10:01]  |        YSI version 4.00.0001        | 
+[10:10:01]  |        By Alex "Y_Less" Cole        | 
+[10:10:01]  |                                     | 
+[10:10:01]  ======================================= 
+[10:10:01]  
+[10:10:01] [OnGameModeInit] Initialising 'Main'...
+[10:10:01] [Database] Connected!
+[10:10:01] Number of vehicle models: 0
+[10:10:23] [connection] incoming connection: 127.0.0.1:49438 id: 0
+[10:10:24] [join] Cagus has joined the server (0:127.0.0.1)
+[10:10:27] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:13:42] password = ""  (string)
+[10:13:42] filterscripts = ""  (string)
+[10:13:42] 
+[10:13:42] Server Plugins
+[10:13:42] --------------
+[10:13:42]  Loading plugin: crashdetect
+[10:13:42]   CrashDetect plugin 4.19.4
+[10:13:42]   Loaded.
+[10:13:42]  Loading plugin: sscanf
+[10:13:42] 
+
+[10:13:42]  ===============================
+
+[10:13:42]       sscanf plugin loaded.     
+
+[10:13:42]          Version:  2.8.3        
+
+[10:13:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:13:42]  ===============================
+
+[10:13:42]   Loaded.
+[10:13:42]  Loading plugin: streamer
+[10:13:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:13:42]   Loaded.
+[10:13:42]  Loading plugin: mysql
+[10:13:42]  >> plugin.mysql: R41-4 successfully loaded.
+[10:13:42]   Loaded.
+[10:13:42]  Loaded 4 plugins.
+
+[10:13:42] 
+[10:13:42] Filterscripts
+[10:13:42] ---------------
+[10:13:42]   Loaded 0 filterscripts.
+
+[10:13:42]  
+[10:13:42]  
+[10:13:42]  
+[10:13:42]  ======================================= 
+[10:13:42]  |                                     | 
+[10:13:42]  |        YSI version 4.00.0001        | 
+[10:13:42]  |        By Alex "Y_Less" Cole        | 
+[10:13:42]  |                                     | 
+[10:13:42]  ======================================= 
+[10:13:42]  
+[10:13:42] [OnGameModeInit] Initialising 'Main'...
+[10:13:42] [Database] Connected!
+[10:13:42] Number of vehicle models: 0
+[10:14:03] [connection] incoming connection: 127.0.0.1:57565 id: 0
+[10:14:03] [join] Cagus has joined the server (0:127.0.0.1)
+[10:14:08] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:52:28] password = ""  (string)
+[12:52:28] filterscripts = ""  (string)
+[12:52:28] 
+[12:52:28] Server Plugins
+[12:52:28] --------------
+[12:52:28]  Loading plugin: crashdetect
+[12:52:28]   CrashDetect plugin 4.19.4
+[12:52:28]   Loaded.
+[12:52:28]  Loading plugin: sscanf
+[12:52:28] 
+
+[12:52:28]  ===============================
+
+[12:52:28]       sscanf plugin loaded.     
+
+[12:52:28]          Version:  2.8.3        
+
+[12:52:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:52:28]  ===============================
+
+[12:52:28]   Loaded.
+[12:52:28]  Loading plugin: streamer
+[12:52:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:52:29]   Loaded.
+[12:52:29]  Loading plugin: mysql
+[12:52:29]  >> plugin.mysql: R41-4 successfully loaded.
+[12:52:29]   Loaded.
+[12:52:29]  Loaded 4 plugins.
+
+[12:52:29] 
+[12:52:29] Filterscripts
+[12:52:29] ---------------
+[12:52:29]   Loaded 0 filterscripts.
+
+[12:52:29]  
+[12:52:29]  
+[12:52:29]  
+[12:52:29]  ======================================= 
+[12:52:29]  |                                     | 
+[12:52:29]  |        YSI version 4.00.0001        | 
+[12:52:29]  |        By Alex "Y_Less" Cole        | 
+[12:52:29]  |                                     | 
+[12:52:29]  ======================================= 
+[12:52:29]  
+[12:52:29] [OnGameModeInit] Initialising 'Main'...
+[12:52:29] [Database] Connected!
+[12:52:29] Number of vehicle models: 0
+[12:53:03] [connection] incoming connection: 127.0.0.1:59212 id: 0
+[12:53:03] [join] Cagus has joined the server (0:127.0.0.1)
+[12:53:06] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:53:58] password = ""  (string)
+[12:53:58] filterscripts = ""  (string)
+[12:53:58] 
+[12:53:58] Server Plugins
+[12:53:58] --------------
+[12:53:58]  Loading plugin: crashdetect
+[12:53:58]   CrashDetect plugin 4.19.4
+[12:53:58]   Loaded.
+[12:53:58]  Loading plugin: sscanf
+[12:53:58] 
+
+[12:53:58]  ===============================
+
+[12:53:58]       sscanf plugin loaded.     
+
+[12:53:58]          Version:  2.8.3        
+
+[12:53:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:53:58]  ===============================
+
+[12:53:58]   Loaded.
+[12:53:58]  Loading plugin: streamer
+[12:53:58] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:53:58]   Loaded.
+[12:53:58]  Loading plugin: mysql
+[12:53:58]  >> plugin.mysql: R41-4 successfully loaded.
+[12:53:58]   Loaded.
+[12:53:58]  Loaded 4 plugins.
+
+[12:53:58] 
+[12:53:58] Filterscripts
+[12:53:58] ---------------
+[12:53:58]   Loaded 0 filterscripts.
+
+[12:53:58]  
+[12:53:58]  
+[12:53:58]  
+[12:53:58]  ======================================= 
+[12:53:58]  |                                     | 
+[12:53:58]  |        YSI version 4.00.0001        | 
+[12:53:58]  |        By Alex "Y_Less" Cole        | 
+[12:53:58]  |                                     | 
+[12:53:58]  ======================================= 
+[12:53:58]  
+[12:53:58] [OnGameModeInit] Initialising 'Main'...
+[12:53:58] [Database] Connected!
+[12:53:58] Number of vehicle models: 0
+[12:54:20] [connection] incoming connection: 127.0.0.1:51254 id: 0
+[12:54:20] [join] Cagus has joined the server (0:127.0.0.1)
+[12:54:22] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:08:18] password = ""  (string)
+[13:08:18] filterscripts = ""  (string)
+[13:08:18] 
+[13:08:18] Server Plugins
+[13:08:18] --------------
+[13:08:18]  Loading plugin: crashdetect
+[13:08:18]   CrashDetect plugin 4.19.4
+[13:08:18]   Loaded.
+[13:08:18]  Loading plugin: sscanf
+[13:08:18] 
+
+[13:08:18]  ===============================
+
+[13:08:18]       sscanf plugin loaded.     
+
+[13:08:18]          Version:  2.8.3        
+
+[13:08:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:08:18]  ===============================
+
+[13:08:18]   Loaded.
+[13:08:18]  Loading plugin: streamer
+[13:08:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:08:18]   Loaded.
+[13:08:18]  Loading plugin: mysql
+[13:08:18]  >> plugin.mysql: R41-4 successfully loaded.
+[13:08:18]   Loaded.
+[13:08:18]  Loaded 4 plugins.
+
+[13:08:18] 
+[13:08:18] Filterscripts
+[13:08:18] ---------------
+[13:08:18]   Loaded 0 filterscripts.
+
+[13:08:18] Script[gamemodes/samp.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[13:08:18] Failed to load 'gamemodes/samp.amx' script.
+[13:08:18] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:09:29] password = ""  (string)
+[13:09:29] filterscripts = ""  (string)
+[13:09:29] 
+[13:09:29] Server Plugins
+[13:09:29] --------------
+[13:09:29]  Loading plugin: crashdetect
+[13:09:29]   CrashDetect plugin 4.19.4
+[13:09:29]   Loaded.
+[13:09:29]  Loading plugin: sscanf
+[13:09:29] 
+
+[13:09:29]  ===============================
+
+[13:09:29]       sscanf plugin loaded.     
+
+[13:09:29]          Version:  2.8.3        
+
+[13:09:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:09:29]  ===============================
+
+[13:09:29]   Loaded.
+[13:09:29]  Loading plugin: streamer
+[13:09:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:09:29]   Loaded.
+[13:09:29]  Loading plugin: mysql
+[13:09:29]  >> plugin.mysql: R41-4 successfully loaded.
+[13:09:29]   Loaded.
+[13:09:29]  Loaded 4 plugins.
+
+[13:09:29] 
+[13:09:29] Filterscripts
+[13:09:29] ---------------
+[13:09:29]   Loaded 0 filterscripts.
+
+[13:09:29]  
+[13:09:29]  
+[13:09:29]  
+[13:09:29]  ======================================= 
+[13:09:29]  |                                     | 
+[13:09:29]  |        YSI version 4.00.0001        | 
+[13:09:29]  |        By Alex "Y_Less" Cole        | 
+[13:09:29]  |                                     | 
+[13:09:29]  ======================================= 
+[13:09:29]  
+[13:09:29] [OnGameModeInit] Initialising 'Main'...
+[13:09:29] [Database] Connected!
+[13:09:29] Number of vehicle models: 0
+[13:10:02] [connection] incoming connection: 127.0.0.1:54457 id: 0
+[13:10:02] [join] Cagus has joined the server (0:127.0.0.1)
+[13:10:05] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:13:40] password = ""  (string)
+[13:13:40] filterscripts = ""  (string)
+[13:13:40] 
+[13:13:40] Server Plugins
+[13:13:40] --------------
+[13:13:40]  Loading plugin: crashdetect
+[13:13:40]   CrashDetect plugin 4.19.4
+[13:13:40]   Loaded.
+[13:13:40]  Loading plugin: sscanf
+[13:13:40] 
+
+[13:13:40]  ===============================
+
+[13:13:40]       sscanf plugin loaded.     
+
+[13:13:40]          Version:  2.8.3        
+
+[13:13:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:13:40]  ===============================
+
+[13:13:40]   Loaded.
+[13:13:40]  Loading plugin: streamer
+[13:13:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:13:40]   Loaded.
+[13:13:40]  Loading plugin: mysql
+[13:13:40]  >> plugin.mysql: R41-4 successfully loaded.
+[13:13:40]   Loaded.
+[13:13:40]  Loaded 4 plugins.
+
+[13:13:40] 
+[13:13:40] Filterscripts
+[13:13:40] ---------------
+[13:13:40]   Loaded 0 filterscripts.
+
+[13:13:41]  
+[13:13:41]  
+[13:13:41]  
+[13:13:41]  ======================================= 
+[13:13:41]  |                                     | 
+[13:13:41]  |        YSI version 4.00.0001        | 
+[13:13:41]  |        By Alex "Y_Less" Cole        | 
+[13:13:41]  |                                     | 
+[13:13:41]  ======================================= 
+[13:13:41]  
+[13:13:41] [OnGameModeInit] Initialising 'Main'...
+[13:13:41] [Database] Connected!
+[13:13:41] Number of vehicle models: 0
+[13:14:02] [connection] incoming connection: 127.0.0.1:53442 id: 0
+[13:14:02] [join] Cagus has joined the server (0:127.0.0.1)
+[13:14:06] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:15:22] password = ""  (string)
+[15:15:22] filterscripts = ""  (string)
+[15:15:22] 
+[15:15:22] Server Plugins
+[15:15:22] --------------
+[15:15:22]  Loading plugin: crashdetect
+[15:15:22]   CrashDetect plugin 4.19.4
+[15:15:22]   Loaded.
+[15:15:22]  Loading plugin: sscanf
+[15:15:22] 
+
+[15:15:22]  ===============================
+
+[15:15:22]       sscanf plugin loaded.     
+
+[15:15:22]          Version:  2.8.3        
+
+[15:15:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:15:22]  ===============================
+
+[15:15:22]   Loaded.
+[15:15:22]  Loading plugin: streamer
+[15:15:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:15:22]   Loaded.
+[15:15:22]  Loading plugin: mysql
+[15:15:22]  >> plugin.mysql: R41-4 successfully loaded.
+[15:15:22]   Loaded.
+[15:15:22]  Loaded 4 plugins.
+
+[15:15:22] 
+[15:15:22] Filterscripts
+[15:15:22] ---------------
+[15:15:22]   Loaded 0 filterscripts.
+
+[15:15:22]  
+[15:15:22]  
+[15:15:22]  
+[15:15:22]  ======================================= 
+[15:15:22]  |                                     | 
+[15:15:22]  |        YSI version 4.00.0001        | 
+[15:15:22]  |        By Alex "Y_Less" Cole        | 
+[15:15:22]  |                                     | 
+[15:15:22]  ======================================= 
+[15:15:22]  
+[15:15:22] [OnGameModeInit] Initialising 'Main'...
+[15:15:22] [Database] Connected!
+[15:15:22] Number of vehicle models: 0
+[15:15:43] [connection] incoming connection: 127.0.0.1:56933 id: 0
+[15:15:43] [join] Cagus has joined the server (0:127.0.0.1)
+[15:15:48] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:16:52] password = ""  (string)
+[15:16:52] filterscripts = ""  (string)
+[15:16:52] 
+[15:16:52] Server Plugins
+[15:16:52] --------------
+[15:16:52]  Loading plugin: crashdetect
+[15:16:52]   CrashDetect plugin 4.19.4
+[15:16:52]   Loaded.
+[15:16:52]  Loading plugin: sscanf
+[15:16:52] 
+
+[15:16:52]  ===============================
+
+[15:16:52]       sscanf plugin loaded.     
+
+[15:16:52]          Version:  2.8.3        
+
+[15:16:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:16:52]  ===============================
+
+[15:16:52]   Loaded.
+[15:16:52]  Loading plugin: streamer
+[15:16:52] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:16:52]   Loaded.
+[15:16:52]  Loading plugin: mysql
+[15:16:52]  >> plugin.mysql: R41-4 successfully loaded.
+[15:16:52]   Loaded.
+[15:16:52]  Loaded 4 plugins.
+
+[15:16:52] 
+[15:16:52] Filterscripts
+[15:16:52] ---------------
+[15:16:52]   Loaded 0 filterscripts.
+
+[15:16:52]  
+[15:16:52]  
+[15:16:52]  
+[15:16:52]  ======================================= 
+[15:16:52]  |                                     | 
+[15:16:52]  |        YSI version 4.00.0001        | 
+[15:16:52]  |        By Alex "Y_Less" Cole        | 
+[15:16:52]  |                                     | 
+[15:16:52]  ======================================= 
+[15:16:52]  
+[15:16:52] [OnGameModeInit] Initialising 'Main'...
+[15:16:52] [Database] Connected!
+[15:16:52] Number of vehicle models: 0
+[15:17:13] [connection] incoming connection: 127.0.0.1:57583 id: 0
+[15:17:13] [join] Cagus has joined the server (0:127.0.0.1)
+[15:17:19] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:20:17] password = ""  (string)
+[15:20:17] filterscripts = ""  (string)
+[15:20:17] 
+[15:20:17] Server Plugins
+[15:20:17] --------------
+[15:20:17]  Loading plugin: crashdetect
+[15:20:17]   CrashDetect plugin 4.19.4
+[15:20:17]   Loaded.
+[15:20:17]  Loading plugin: sscanf
+[15:20:17] 
+
+[15:20:17]  ===============================
+
+[15:20:17]       sscanf plugin loaded.     
+
+[15:20:17]          Version:  2.8.3        
+
+[15:20:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:20:17]  ===============================
+
+[15:20:17]   Loaded.
+[15:20:17]  Loading plugin: streamer
+[15:20:17] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:20:17]   Loaded.
+[15:20:17]  Loading plugin: mysql
+[15:20:17]  >> plugin.mysql: R41-4 successfully loaded.
+[15:20:17]   Loaded.
+[15:20:17]  Loaded 4 plugins.
+
+[15:20:17] 
+[15:20:17] Filterscripts
+[15:20:17] ---------------
+[15:20:17]   Loaded 0 filterscripts.
+
+[15:20:17]  
+[15:20:17]  
+[15:20:17]  
+[15:20:17]  ======================================= 
+[15:20:17]  |                                     | 
+[15:20:17]  |        YSI version 4.00.0001        | 
+[15:20:17]  |        By Alex "Y_Less" Cole        | 
+[15:20:17]  |                                     | 
+[15:20:17]  ======================================= 
+[15:20:17]  
+[15:20:17] [OnGameModeInit] Initialising 'Main'...
+[15:20:17] [Database] Connected!
+[15:20:17] Number of vehicle models: 0
+[15:21:12] [connection] incoming connection: 127.0.0.1:50964 id: 0
+[15:21:12] [join] Cagus has joined the server (0:127.0.0.1)
+[15:26:26] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:26:33] password = ""  (string)
+[15:26:33] filterscripts = ""  (string)
+[15:26:33] 
+[15:26:33] Server Plugins
+[15:26:33] --------------
+[15:26:33]  Loading plugin: crashdetect
+[15:26:33]   CrashDetect plugin 4.19.4
+[15:26:33]   Loaded.
+[15:26:33]  Loading plugin: sscanf
+[15:26:33] 
+
+[15:26:33]  ===============================
+
+[15:26:33]       sscanf plugin loaded.     
+
+[15:26:33]          Version:  2.8.3        
+
+[15:26:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:26:33]  ===============================
+
+[15:26:33]   Loaded.
+[15:26:33]  Loading plugin: streamer
+[15:26:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:26:33]   Loaded.
+[15:26:33]  Loading plugin: mysql
+[15:26:33]  >> plugin.mysql: R41-4 successfully loaded.
+[15:26:33]   Loaded.
+[15:26:33]  Loaded 4 plugins.
+
+[15:26:33] 
+[15:26:33] Filterscripts
+[15:26:33] ---------------
+[15:26:33]   Loaded 0 filterscripts.
+
+[15:26:33]  
+[15:26:33]  
+[15:26:33]  
+[15:26:33]  ======================================= 
+[15:26:33]  |                                     | 
+[15:26:33]  |        YSI version 4.00.0001        | 
+[15:26:33]  |        By Alex "Y_Less" Cole        | 
+[15:26:33]  |                                     | 
+[15:26:33]  ======================================= 
+[15:26:33]  
+[15:26:33] [OnGameModeInit] Initialising 'Main'...
+[15:26:33] [Database] Connected!
+[15:26:33] Number of vehicle models: 0
+[15:26:53] [connection] incoming connection: 127.0.0.1:50965 id: 0
+[15:26:54] [join] Cagus has joined the server (0:127.0.0.1)
+[15:27:05] [nick] Cagus nick changed to Cagus_Styler
+[15:29:10] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:29:14] password = ""  (string)
+[15:29:14] filterscripts = ""  (string)
+[15:29:14] 
+[15:29:14] Server Plugins
+[15:29:14] --------------
+[15:29:14]  Loading plugin: crashdetect
+[15:29:14]   CrashDetect plugin 4.19.4
+[15:29:14]   Loaded.
+[15:29:14]  Loading plugin: sscanf
+[15:29:14] 
+
+[15:29:14]  ===============================
+
+[15:29:14]       sscanf plugin loaded.     
+
+[15:29:14]          Version:  2.8.3        
+
+[15:29:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:29:14]  ===============================
+
+[15:29:14]   Loaded.
+[15:29:14]  Loading plugin: streamer
+[15:29:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:29:14]   Loaded.
+[15:29:14]  Loading plugin: mysql
+[15:29:14]  >> plugin.mysql: R41-4 successfully loaded.
+[15:29:14]   Loaded.
+[15:29:14]  Loaded 4 plugins.
+
+[15:29:14] 
+[15:29:14] Filterscripts
+[15:29:14] ---------------
+[15:29:14]   Loaded 0 filterscripts.
+
+[15:29:14]  
+[15:29:14]  
+[15:29:14]  
+[15:29:14]  ======================================= 
+[15:29:14]  |                                     | 
+[15:29:14]  |        YSI version 4.00.0001        | 
+[15:29:14]  |        By Alex "Y_Less" Cole        | 
+[15:29:14]  |                                     | 
+[15:29:14]  ======================================= 
+[15:29:14]  
+[15:29:14] [OnGameModeInit] Initialising 'Main'...
+[15:29:14] [Database] Connected!
+[15:29:14] Number of vehicle models: 0
+[15:29:34] [connection] incoming connection: 127.0.0.1:50966 id: 0
+[15:29:34] [join] Cagus has joined the server (0:127.0.0.1)
+[15:29:45] [nick] Cagus nick changed to Cagus_Styler
+[15:30:18] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:38:59] password = ""  (string)
+[15:38:59] filterscripts = ""  (string)
+[15:38:59] 
+[15:38:59] Server Plugins
+[15:38:59] --------------
+[15:38:59]  Loading plugin: crashdetect
+[15:38:59]   CrashDetect plugin 4.19.4
+[15:38:59]   Loaded.
+[15:38:59]  Loading plugin: sscanf
+[15:38:59] 
+
+[15:38:59]  ===============================
+
+[15:38:59]       sscanf plugin loaded.     
+
+[15:38:59]          Version:  2.8.3        
+
+[15:38:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:38:59]  ===============================
+
+[15:38:59]   Loaded.
+[15:38:59]  Loading plugin: streamer
+[15:38:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:38:59]   Loaded.
+[15:38:59]  Loading plugin: mysql
+[15:38:59]  >> plugin.mysql: R41-4 successfully loaded.
+[15:38:59]   Loaded.
+[15:38:59]  Loaded 4 plugins.
+
+[15:38:59] 
+[15:38:59] Filterscripts
+[15:38:59] ---------------
+[15:38:59]   Loaded 0 filterscripts.
+
+[15:38:59]  
+[15:38:59]  
+[15:38:59]  
+[15:38:59]  ======================================= 
+[15:38:59]  |                                     | 
+[15:38:59]  |        YSI version 4.00.0001        | 
+[15:38:59]  |        By Alex "Y_Less" Cole        | 
+[15:38:59]  |                                     | 
+[15:38:59]  ======================================= 
+[15:38:59]  
+[15:38:59] [OnGameModeInit] Initialising 'Main'...
+[15:38:59] [Database] Connected!
+[15:38:59] Number of vehicle models: 0
+[15:39:19] [connection] incoming connection: 127.0.0.1:50967 id: 0
+[15:39:19] [join] Cagus has joined the server (0:127.0.0.1)
+[15:39:19] Resetting player statistics for ID 0
+[15:39:25] [nick] Cagus nick changed to Cagus_Styler
+[15:40:01] Resetting player statistics for ID 0
+[15:40:01] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:42:26] password = ""  (string)
+[15:42:26] filterscripts = ""  (string)
+[15:42:26] 
+[15:42:26] Server Plugins
+[15:42:26] --------------
+[15:42:26]  Loading plugin: crashdetect
+[15:42:26]   CrashDetect plugin 4.19.4
+[15:42:26]   Loaded.
+[15:42:26]  Loading plugin: sscanf
+[15:42:26] 
+
+[15:42:26]  ===============================
+
+[15:42:26]       sscanf plugin loaded.     
+
+[15:42:26]          Version:  2.8.3        
+
+[15:42:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:42:26]  ===============================
+
+[15:42:26]   Loaded.
+[15:42:26]  Loading plugin: streamer
+[15:42:26] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:42:26]   Loaded.
+[15:42:26]  Loading plugin: mysql
+[15:42:26]  >> plugin.mysql: R41-4 successfully loaded.
+[15:42:26]   Loaded.
+[15:42:26]  Loaded 4 plugins.
+
+[15:42:26] 
+[15:42:26] Filterscripts
+[15:42:26] ---------------
+[15:42:26]   Loaded 0 filterscripts.
+
+[15:42:26]  
+[15:42:26]  
+[15:42:26]  
+[15:42:26]  ======================================= 
+[15:42:26]  |                                     | 
+[15:42:26]  |        YSI version 4.00.0001        | 
+[15:42:26]  |        By Alex "Y_Less" Cole        | 
+[15:42:26]  |                                     | 
+[15:42:26]  ======================================= 
+[15:42:26]  
+[15:42:26] [OnGameModeInit] Initialising 'Main'...
+[15:42:26] [Database] Connected!
+[15:42:26] Number of vehicle models: 0
+[15:42:46] [connection] incoming connection: 127.0.0.1:50968 id: 0
+[15:42:46] [join] Cagus has joined the server (0:127.0.0.1)
+[15:42:46] Resetting player statistics for ID 0
+[15:42:50] [nick] Cagus nick changed to Cagus_Styler
+[15:43:52] Resetting player statistics for ID 0
+[15:43:52] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:45:42] password = ""  (string)
+[15:45:42] filterscripts = ""  (string)
+[15:45:42] 
+[15:45:42] Server Plugins
+[15:45:42] --------------
+[15:45:42]  Loading plugin: crashdetect
+[15:45:42]   CrashDetect plugin 4.19.4
+[15:45:42]   Loaded.
+[15:45:42]  Loading plugin: sscanf
+[15:45:42] 
+
+[15:45:42]  ===============================
+
+[15:45:42]       sscanf plugin loaded.     
+
+[15:45:42]          Version:  2.8.3        
+
+[15:45:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:45:42]  ===============================
+
+[15:45:42]   Loaded.
+[15:45:42]  Loading plugin: streamer
+[15:45:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:45:42]   Loaded.
+[15:45:42]  Loading plugin: mysql
+[15:45:42]  >> plugin.mysql: R41-4 successfully loaded.
+[15:45:42]   Loaded.
+[15:45:42]  Loaded 4 plugins.
+
+[15:45:42] 
+[15:45:42] Filterscripts
+[15:45:42] ---------------
+[15:45:42]   Loaded 0 filterscripts.
+
+[15:45:42]  
+[15:45:42]  
+[15:45:42]  
+[15:45:42]  ======================================= 
+[15:45:42]  |                                     | 
+[15:45:42]  |        YSI version 4.00.0001        | 
+[15:45:42]  |        By Alex "Y_Less" Cole        | 
+[15:45:42]  |                                     | 
+[15:45:42]  ======================================= 
+[15:45:42]  
+[15:45:42] [OnGameModeInit] Initialising 'Main'...
+[15:45:43] [Database] Connected!
+[15:45:43] Number of vehicle models: 0
+[15:46:14] [connection] incoming connection: 127.0.0.1:50970 id: 0
+[15:46:14] [join] Cagus has joined the server (0:127.0.0.1)
+[15:46:14] Resetting player statistics for ID 0
+[15:46:26] [nick] Cagus nick changed to Cagus_Styler
+[15:47:00] Resetting player statistics for ID 0
+[15:47:00] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:48:22] password = ""  (string)
+[15:48:22] filterscripts = ""  (string)
+[15:48:22] 
+[15:48:22] Server Plugins
+[15:48:22] --------------
+[15:48:22]  Loading plugin: crashdetect
+[15:48:22]   CrashDetect plugin 4.19.4
+[15:48:22]   Loaded.
+[15:48:22]  Loading plugin: sscanf
+[15:48:22] 
+
+[15:48:22]  ===============================
+
+[15:48:22]       sscanf plugin loaded.     
+
+[15:48:22]          Version:  2.8.3        
+
+[15:48:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:48:22]  ===============================
+
+[15:48:22]   Loaded.
+[15:48:22]  Loading plugin: streamer
+[15:48:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:48:22]   Loaded.
+[15:48:22]  Loading plugin: mysql
+[15:48:22]  >> plugin.mysql: R41-4 successfully loaded.
+[15:48:22]   Loaded.
+[15:48:22]  Loaded 4 plugins.
+
+[15:48:22] 
+[15:48:22] Filterscripts
+[15:48:22] ---------------
+[15:48:22]   Loaded 0 filterscripts.
+
+[15:48:22]  
+[15:48:22]  
+[15:48:22]  
+[15:48:22]  ======================================= 
+[15:48:22]  |                                     | 
+[15:48:22]  |        YSI version 4.00.0001        | 
+[15:48:22]  |        By Alex "Y_Less" Cole        | 
+[15:48:22]  |                                     | 
+[15:48:22]  ======================================= 
+[15:48:22]  
+[15:48:22] [OnGameModeInit] Initialising 'Main'...
+[15:48:22] [Database] Connected!
+[15:48:22] Number of vehicle models: 0
+[15:48:41] [connection] incoming connection: 127.0.0.1:50971 id: 0
+[15:48:41] [join] Cagus has joined the server (0:127.0.0.1)
+[15:48:41] Resetting player statistics for ID 0
+[15:48:54] [nick] Cagus nick changed to Cagus_Styler
+[15:49:33] Resetting player statistics for ID 0
+[15:49:33] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:54:41] password = ""  (string)
+[15:54:41] filterscripts = ""  (string)
+[15:54:41] 
+[15:54:41] Server Plugins
+[15:54:41] --------------
+[15:54:41]  Loading plugin: crashdetect
+[15:54:41]   CrashDetect plugin 4.19.4
+[15:54:41]   Loaded.
+[15:54:41]  Loading plugin: sscanf
+[15:54:41] 
+
+[15:54:41]  ===============================
+
+[15:54:41]       sscanf plugin loaded.     
+
+[15:54:41]          Version:  2.8.3        
+
+[15:54:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:54:41]  ===============================
+
+[15:54:41]   Loaded.
+[15:54:41]  Loading plugin: streamer
+[15:54:41] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:54:41]   Loaded.
+[15:54:41]  Loading plugin: mysql
+[15:54:41]  >> plugin.mysql: R41-4 successfully loaded.
+[15:54:41]   Loaded.
+[15:54:41]  Loaded 4 plugins.
+
+[15:54:41] 
+[15:54:41] Filterscripts
+[15:54:41] ---------------
+[15:54:41]   Loaded 0 filterscripts.
+
+[15:54:41]  
+[15:54:41]  
+[15:54:41]  
+[15:54:41]  ======================================= 
+[15:54:41]  |                                     | 
+[15:54:41]  |        YSI version 4.00.0001        | 
+[15:54:41]  |        By Alex "Y_Less" Cole        | 
+[15:54:41]  |                                     | 
+[15:54:41]  ======================================= 
+[15:54:41]  
+[15:54:41] [OnGameModeInit] Initialising 'Main'...
+[15:54:41] [Database] Connected!
+[15:54:41] Number of vehicle models: 0
+[15:55:14] [connection] incoming connection: 127.0.0.1:50972 id: 0
+[15:55:14] [join] Cagus has joined the server (0:127.0.0.1)
+[15:55:14] Resetting player statistics for ID 0
+[15:55:25] [nick] Cagus nick changed to Cagus_Styler
+[15:55:51] Resetting player statistics for ID 0
+[15:55:51] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:56:42] password = ""  (string)
+[15:56:42] filterscripts = ""  (string)
+[15:56:42] 
+[15:56:42] Server Plugins
+[15:56:42] --------------
+[15:56:42]  Loading plugin: crashdetect
+[15:56:42]   CrashDetect plugin 4.19.4
+[15:56:42]   Loaded.
+[15:56:42]  Loading plugin: sscanf
+[15:56:42] 
+
+[15:56:42]  ===============================
+
+[15:56:42]       sscanf plugin loaded.     
+
+[15:56:42]          Version:  2.8.3        
+
+[15:56:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:56:42]  ===============================
+
+[15:56:42]   Loaded.
+[15:56:42]  Loading plugin: streamer
+[15:56:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:56:42]   Loaded.
+[15:56:42]  Loading plugin: mysql
+[15:56:42]  >> plugin.mysql: R41-4 successfully loaded.
+[15:56:42]   Loaded.
+[15:56:42]  Loaded 4 plugins.
+
+[15:56:42] 
+[15:56:42] Filterscripts
+[15:56:42] ---------------
+[15:56:42]   Loaded 0 filterscripts.
+
+[15:56:42]  
+[15:56:42]  
+[15:56:42]  
+[15:56:42]  ======================================= 
+[15:56:42]  |                                     | 
+[15:56:42]  |        YSI version 4.00.0001        | 
+[15:56:42]  |        By Alex "Y_Less" Cole        | 
+[15:56:42]  |                                     | 
+[15:56:42]  ======================================= 
+[15:56:42]  
+[15:56:42] [OnGameModeInit] Initialising 'Main'...
+[15:56:42] [Database] Connected!
+[15:56:42] Number of vehicle models: 0
+[15:57:05] [connection] incoming connection: 127.0.0.1:50973 id: 0
+[15:57:05] [join] Cagus has joined the server (0:127.0.0.1)
+[15:57:05] Resetting player statistics for ID 0
+[15:57:10] [nick] Cagus nick changed to Cagus_Styler
+[15:57:12] Resetting player statistics for ID 0
+[15:57:12] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:57:25] password = ""  (string)
+[15:57:25] filterscripts = ""  (string)
+[15:57:25] 
+[15:57:25] Server Plugins
+[15:57:25] --------------
+[15:57:25]  Loading plugin: crashdetect
+[15:57:25]   CrashDetect plugin 4.19.4
+[15:57:25]   Loaded.
+[15:57:25]  Loading plugin: sscanf
+[15:57:25] 
+
+[15:57:25]  ===============================
+
+[15:57:25]       sscanf plugin loaded.     
+
+[15:57:25]          Version:  2.8.3        
+
+[15:57:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:57:25]  ===============================
+
+[15:57:25]   Loaded.
+[15:57:25]  Loading plugin: streamer
+[15:57:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:57:25]   Loaded.
+[15:57:25]  Loading plugin: mysql
+[15:57:25]  >> plugin.mysql: R41-4 successfully loaded.
+[15:57:25]   Loaded.
+[15:57:25]  Loaded 4 plugins.
+
+[15:57:25] 
+[15:57:25] Filterscripts
+[15:57:25] ---------------
+[15:57:25]   Loaded 0 filterscripts.
+
+[15:57:25]  
+[15:57:25]  
+[15:57:25]  
+[15:57:25]  ======================================= 
+[15:57:25]  |                                     | 
+[15:57:25]  |        YSI version 4.00.0001        | 
+[15:57:25]  |        By Alex "Y_Less" Cole        | 
+[15:57:25]  |                                     | 
+[15:57:25]  ======================================= 
+[15:57:25]  
+[15:57:25] [OnGameModeInit] Initialising 'Main'...
+[15:57:25] [Database] Connected!
+[15:57:25] Number of vehicle models: 0
+[15:57:44] [connection] incoming connection: 127.0.0.1:50975 id: 0
+[15:57:45] [join] Cagus has joined the server (0:127.0.0.1)
+[15:57:45] Resetting player statistics for ID 0
+[15:57:54] [nick] Cagus nick changed to Cagus_Styler
+[15:58:17] Resetting player statistics for ID 0
+[15:58:17] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:17:48] password = ""  (string)
+[18:17:48] filterscripts = ""  (string)
+[18:17:48] 
+[18:17:48] Server Plugins
+[18:17:48] --------------
+[18:17:48]  Loading plugin: crashdetect
+[18:17:48]   CrashDetect plugin 4.19.4
+[18:17:48]   Loaded.
+[18:17:48]  Loading plugin: sscanf
+[18:17:48] 
+
+[18:17:48]  ===============================
+
+[18:17:48]       sscanf plugin loaded.     
+
+[18:17:48]          Version:  2.8.3        
+
+[18:17:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:17:48]  ===============================
+
+[18:17:48]   Loaded.
+[18:17:48]  Loading plugin: streamer
+[18:17:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:17:48]   Loaded.
+[18:17:48]  Loading plugin: mysql
+[18:17:48]  >> plugin.mysql: R41-4 successfully loaded.
+[18:17:48]   Loaded.
+[18:17:48]  Loaded 4 plugins.
+
+[18:17:48] 
+[18:17:48] Filterscripts
+[18:17:48] ---------------
+[18:17:48]   Loaded 0 filterscripts.
+
+[18:17:48]  
+[18:17:48]  
+[18:17:48]  
+[18:17:48]  ======================================= 
+[18:17:48]  |                                     | 
+[18:17:48]  |        YSI version 4.00.0001        | 
+[18:17:48]  |        By Alex "Y_Less" Cole        | 
+[18:17:48]  |                                     | 
+[18:17:48]  ======================================= 
+[18:17:48]  
+[18:17:48] [OnGameModeInit] Initialising 'Main'...
+[18:17:48] [Database] Connected!
+[18:17:48] Number of vehicle models: 0
+[18:18:21] [connection] incoming connection: 127.0.0.1:64318 id: 0
+[18:18:21] [join] Cagus has joined the server (0:127.0.0.1)
+[18:18:21] Resetting player statistics for ID 0
+[18:18:31] [nick] Cagus nick changed to Cagus_Styler
+[18:18:53] Resetting player statistics for ID 0
+[18:18:53] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:23:12] password = ""  (string)
+[18:23:12] filterscripts = ""  (string)
+[18:23:12] 
+[18:23:12] Server Plugins
+[18:23:12] --------------
+[18:23:12]  Loading plugin: crashdetect
+[18:23:12]   CrashDetect plugin 4.19.4
+[18:23:12]   Loaded.
+[18:23:12]  Loading plugin: sscanf
+[18:23:12] 
+
+[18:23:12]  ===============================
+
+[18:23:12]       sscanf plugin loaded.     
+
+[18:23:12]          Version:  2.8.3        
+
+[18:23:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:23:12]  ===============================
+
+[18:23:12]   Loaded.
+[18:23:12]  Loading plugin: streamer
+[18:23:12] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:23:12]   Loaded.
+[18:23:12]  Loading plugin: mysql
+[18:23:12]  >> plugin.mysql: R41-4 successfully loaded.
+[18:23:12]   Loaded.
+[18:23:12]  Loaded 4 plugins.
+
+[18:23:12] 
+[18:23:12] Filterscripts
+[18:23:12] ---------------
+[18:23:12]   Loaded 0 filterscripts.
+
+[18:23:12]  
+[18:23:12]  
+[18:23:12]  
+[18:23:12]  ======================================= 
+[18:23:12]  |                                     | 
+[18:23:12]  |        YSI version 4.00.0001        | 
+[18:23:12]  |        By Alex "Y_Less" Cole        | 
+[18:23:12]  |                                     | 
+[18:23:12]  ======================================= 
+[18:23:12]  
+[18:23:12] [OnGameModeInit] Initialising 'Main'...
+[18:23:12] [Database] Connected!
+[18:23:12] Number of vehicle models: 0
+[18:23:32] [connection] incoming connection: 127.0.0.1:51297 id: 0
+[18:23:32] [join] Cagus has joined the server (0:127.0.0.1)
+[18:23:32] Resetting player statistics for ID 0
+[18:23:49] [nick] Cagus nick changed to Cagus_Styler
+[18:24:13] Resetting player statistics for ID 0
+[18:24:13] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:29:41] password = ""  (string)
+[18:29:41] filterscripts = ""  (string)
+[18:29:41] 
+[18:29:41] Server Plugins
+[18:29:41] --------------
+[18:29:41]  Loading plugin: crashdetect
+[18:29:41]   CrashDetect plugin 4.19.4
+[18:29:41]   Loaded.
+[18:29:41]  Loading plugin: sscanf
+[18:29:41] 
+
+[18:29:41]  ===============================
+
+[18:29:41]       sscanf plugin loaded.     
+
+[18:29:41]          Version:  2.8.3        
+
+[18:29:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:29:41]  ===============================
+
+[18:29:41]   Loaded.
+[18:29:41]  Loading plugin: streamer
+[18:29:41] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:29:41]   Loaded.
+[18:29:41]  Loading plugin: mysql
+[18:29:41]  >> plugin.mysql: R41-4 successfully loaded.
+[18:29:41]   Loaded.
+[18:29:41]  Loaded 4 plugins.
+
+[18:29:41] 
+[18:29:41] Filterscripts
+[18:29:41] ---------------
+[18:29:41]   Loaded 0 filterscripts.
+
+[18:29:41]  
+[18:29:41]  
+[18:29:41]  
+[18:29:41]  ======================================= 
+[18:29:41]  |                                     | 
+[18:29:41]  |        YSI version 4.00.0001        | 
+[18:29:41]  |        By Alex "Y_Less" Cole        | 
+[18:29:41]  |                                     | 
+[18:29:41]  ======================================= 
+[18:29:41]  
+[18:29:41] [OnGameModeInit] Initialising 'Main'...
+[18:29:41] [Database] Connected!
+[18:29:41] Number of vehicle models: 0
+[18:30:05] [connection] incoming connection: 127.0.0.1:57813 id: 0
+[18:30:06] [join] Cagus has joined the server (0:127.0.0.1)
+[18:30:06] Resetting player statistics for ID 0
+[18:30:14] [nick] Cagus nick changed to Cagus_Styler
+[18:30:54] Resetting player statistics for ID 0
+[18:30:54] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:36:33] password = ""  (string)
+[18:36:33] filterscripts = ""  (string)
+[18:36:33] 
+[18:36:33] Server Plugins
+[18:36:33] --------------
+[18:36:33]  Loading plugin: crashdetect
+[18:36:33]   CrashDetect plugin 4.19.4
+[18:36:33]   Loaded.
+[18:36:33]  Loading plugin: sscanf
+[18:36:33] 
+
+[18:36:33]  ===============================
+
+[18:36:33]       sscanf plugin loaded.     
+
+[18:36:33]          Version:  2.8.3        
+
+[18:36:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:36:33]  ===============================
+
+[18:36:33]   Loaded.
+[18:36:33]  Loading plugin: streamer
+[18:36:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:36:33]   Loaded.
+[18:36:33]  Loading plugin: mysql
+[18:36:33]  >> plugin.mysql: R41-4 successfully loaded.
+[18:36:33]   Loaded.
+[18:36:33]  Loaded 4 plugins.
+
+[18:36:33] 
+[18:36:33] Filterscripts
+[18:36:33] ---------------
+[18:36:33]   Loaded 0 filterscripts.
+
+[18:36:33]  
+[18:36:33]  
+[18:36:33]  
+[18:36:33]  ======================================= 
+[18:36:33]  |                                     | 
+[18:36:33]  |        YSI version 4.00.0001        | 
+[18:36:33]  |        By Alex "Y_Less" Cole        | 
+[18:36:33]  |                                     | 
+[18:36:33]  ======================================= 
+[18:36:33]  
+[18:36:33] [OnGameModeInit] Initialising 'Main'...
+[18:36:33] [Database] Connected!
+[18:36:33] Number of vehicle models: 0
+[18:36:56] [connection] incoming connection: 127.0.0.1:56429 id: 0
+[18:36:56] [join] Cagus has joined the server (0:127.0.0.1)
+[18:36:56] Resetting player statistics for ID 0
+[18:37:01] [nick] Cagus nick changed to Cagus_Styler
+[18:42:14] Resetting player statistics for ID 0
+[18:42:14] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:43:09] password = ""  (string)
+[18:43:09] filterscripts = ""  (string)
+[18:43:09] 
+[18:43:09] Server Plugins
+[18:43:09] --------------
+[18:43:09]  Loading plugin: crashdetect
+[18:43:09]   CrashDetect plugin 4.19.4
+[18:43:09]   Loaded.
+[18:43:09]  Loading plugin: sscanf
+[18:43:09] 
+
+[18:43:09]  ===============================
+
+[18:43:09]       sscanf plugin loaded.     
+
+[18:43:09]          Version:  2.8.3        
+
+[18:43:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:43:09]  ===============================
+
+[18:43:09]   Loaded.
+[18:43:09]  Loading plugin: streamer
+[18:43:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:43:09]   Loaded.
+[18:43:09]  Loading plugin: mysql
+[18:43:09]  >> plugin.mysql: R41-4 successfully loaded.
+[18:43:09]   Loaded.
+[18:43:09]  Loaded 4 plugins.
+
+[18:43:10] 
+[18:43:10] Filterscripts
+[18:43:10] ---------------
+[18:43:10]   Loaded 0 filterscripts.
+
+[18:43:10]  
+[18:43:10]  
+[18:43:10]  
+[18:43:10]  ======================================= 
+[18:43:10]  |                                     | 
+[18:43:10]  |        YSI version 4.00.0001        | 
+[18:43:10]  |        By Alex "Y_Less" Cole        | 
+[18:43:10]  |                                     | 
+[18:43:10]  ======================================= 
+[18:43:10]  
+[18:43:10] [OnGameModeInit] Initialising 'Main'...
+[18:43:10] [Database] Connected!
+[18:43:10] Number of vehicle models: 0
+[18:43:31] [connection] incoming connection: 127.0.0.1:55600 id: 0
+[18:43:31] [join] Cagus has joined the server (0:127.0.0.1)
+[18:43:31] Resetting player statistics for ID 0
+[18:43:35] [nick] Cagus nick changed to Cagus_Styler
+[18:47:17] Resetting player statistics for ID 0
+[18:47:17] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:47:23] password = ""  (string)
+[18:47:23] filterscripts = ""  (string)
+[18:47:23] 
+[18:47:23] Server Plugins
+[18:47:23] --------------
+[18:47:23]  Loading plugin: crashdetect
+[18:47:23]   CrashDetect plugin 4.19.4
+[18:47:23]   Loaded.
+[18:47:23]  Loading plugin: sscanf
+[18:47:23] 
+
+[18:47:23]  ===============================
+
+[18:47:23]       sscanf plugin loaded.     
+
+[18:47:23]          Version:  2.8.3        
+
+[18:47:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:47:23]  ===============================
+
+[18:47:23]   Loaded.
+[18:47:23]  Loading plugin: streamer
+[18:47:23] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:47:23]   Loaded.
+[18:47:23]  Loading plugin: mysql
+[18:47:23]  >> plugin.mysql: R41-4 successfully loaded.
+[18:47:23]   Loaded.
+[18:47:23]  Loaded 4 plugins.
+
+[18:47:23] 
+[18:47:23] Filterscripts
+[18:47:23] ---------------
+[18:47:23]   Loaded 0 filterscripts.
+
+[18:47:23]  
+[18:47:23]  
+[18:47:23]  
+[18:47:23]  ======================================= 
+[18:47:23]  |                                     | 
+[18:47:23]  |        YSI version 4.00.0001        | 
+[18:47:23]  |        By Alex "Y_Less" Cole        | 
+[18:47:23]  |                                     | 
+[18:47:23]  ======================================= 
+[18:47:23]  
+[18:47:23] [OnGameModeInit] Initialising 'Main'...
+[18:47:23] [Database] Connected!
+[18:47:23] Number of vehicle models: 0
+[18:47:46] [connection] incoming connection: 127.0.0.1:56000 id: 0
+[18:47:46] [join] Cagus has joined the server (0:127.0.0.1)
+[18:47:46] Resetting player statistics for ID 0
+[18:47:51] [nick] Cagus nick changed to Cagus_Styler
+[18:47:57] Resetting player statistics for ID 0
+[18:47:57] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:53:40] password = ""  (string)
+[18:53:40] filterscripts = ""  (string)
+[18:53:40] 
+[18:53:40] Server Plugins
+[18:53:40] --------------
+[18:53:40]  Loading plugin: crashdetect
+[18:53:40]   CrashDetect plugin 4.19.4
+[18:53:40]   Loaded.
+[18:53:40]  Loading plugin: sscanf
+[18:53:40] 
+
+[18:53:40]  ===============================
+
+[18:53:40]       sscanf plugin loaded.     
+
+[18:53:40]          Version:  2.8.3        
+
+[18:53:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:53:40]  ===============================
+
+[18:53:40]   Loaded.
+[18:53:40]  Loading plugin: streamer
+[18:53:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:53:40]   Loaded.
+[18:53:40]  Loading plugin: mysql
+[18:53:40]  >> plugin.mysql: R41-4 successfully loaded.
+[18:53:40]   Loaded.
+[18:53:40]  Loaded 4 plugins.
+
+[18:53:40] 
+[18:53:40] Filterscripts
+[18:53:40] ---------------
+[18:53:40]   Loaded 0 filterscripts.
+
+[18:53:40]  
+[18:53:40]  
+[18:53:40]  
+[18:53:40]  ======================================= 
+[18:53:40]  |                                     | 
+[18:53:40]  |        YSI version 4.00.0001        | 
+[18:53:40]  |        By Alex "Y_Less" Cole        | 
+[18:53:40]  |                                     | 
+[18:53:40]  ======================================= 
+[18:53:40]  
+[18:53:40] [OnGameModeInit] Initialising 'Main'...
+[18:53:40] [Database] Connected!
+[18:53:40] Number of vehicle models: 0
+[18:54:04] [connection] incoming connection: 127.0.0.1:50796 id: 0
+[18:54:05] [join] Cagus has joined the server (0:127.0.0.1)
+[18:54:05] Resetting player statistics for ID 0
+[18:54:08] [nick] Cagus nick changed to Cagus_Styler
+[18:54:13] Resetting player statistics for ID 0
+[18:54:13] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:57:58] password = ""  (string)
+[19:57:58] filterscripts = ""  (string)
+[19:57:58] 
+[19:57:58] Server Plugins
+[19:57:58] --------------
+[19:57:58]  Loading plugin: crashdetect
+[19:57:58]   CrashDetect plugin 4.19.4
+[19:57:58]   Loaded.
+[19:57:58]  Loading plugin: sscanf
+[19:57:58] 
+
+[19:57:58]  ===============================
+
+[19:57:58]       sscanf plugin loaded.     
+
+[19:57:58]          Version:  2.8.3        
+
+[19:57:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:57:58]  ===============================
+
+[19:57:58]   Loaded.
+[19:57:58]  Loading plugin: streamer
+[19:57:58] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:57:58]   Loaded.
+[19:57:58]  Loading plugin: mysql
+[19:57:58]  >> plugin.mysql: R41-4 successfully loaded.
+[19:57:58]   Loaded.
+[19:57:58]  Loaded 4 plugins.
+
+[19:57:58] 
+[19:57:58] Filterscripts
+[19:57:58] ---------------
+[19:57:58]   Loaded 0 filterscripts.
+
+[19:57:58]  
+[19:57:58]  
+[19:57:58]  
+[19:57:58]  ======================================= 
+[19:57:58]  |                                     | 
+[19:57:58]  |        YSI version 4.00.0001        | 
+[19:57:58]  |        By Alex "Y_Less" Cole        | 
+[19:57:58]  |                                     | 
+[19:57:58]  ======================================= 
+[19:57:58]  
+[19:57:58] [OnGameModeInit] Initialising 'Main'...
+[19:57:58] [Database] Connected!
+[19:57:58] Number of vehicle models: 0
+[19:58:24] [connection] incoming connection: 127.0.0.1:57544 id: 0
+[19:58:24] [join] Cagus has joined the server (0:127.0.0.1)
+[19:58:24] Resetting player statistics for ID 0
+[19:58:28] [nick] Cagus nick changed to Cagus_Styler
+[19:58:32] Resetting player statistics for ID 0
+[19:58:32] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:59:25] password = ""  (string)
+[19:59:25] filterscripts = ""  (string)
+[19:59:25] 
+[19:59:25] Server Plugins
+[19:59:25] --------------
+[19:59:25]  Loading plugin: crashdetect
+[19:59:25]   CrashDetect plugin 4.19.4
+[19:59:25]   Loaded.
+[19:59:25]  Loading plugin: sscanf
+[19:59:25] 
+
+[19:59:25]  ===============================
+
+[19:59:25]       sscanf plugin loaded.     
+
+[19:59:25]          Version:  2.8.3        
+
+[19:59:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:59:25]  ===============================
+
+[19:59:25]   Loaded.
+[19:59:25]  Loading plugin: streamer
+[19:59:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:59:25]   Loaded.
+[19:59:25]  Loading plugin: mysql
+[19:59:25]  >> plugin.mysql: R41-4 successfully loaded.
+[19:59:25]   Loaded.
+[19:59:25]  Loaded 4 plugins.
+
+[19:59:25] 
+[19:59:25] Filterscripts
+[19:59:25] ---------------
+[19:59:25]   Loaded 0 filterscripts.
+
+[19:59:25]  
+[19:59:25]  
+[19:59:25]  
+[19:59:25]  ======================================= 
+[19:59:25]  |                                     | 
+[19:59:25]  |        YSI version 4.00.0001        | 
+[19:59:25]  |        By Alex "Y_Less" Cole        | 
+[19:59:25]  |                                     | 
+[19:59:25]  ======================================= 
+[19:59:25]  
+[19:59:25] [OnGameModeInit] Initialising 'Main'...
+[19:59:25] [Database] Connected!
+[19:59:25] Number of vehicle models: 0
+[19:59:47] [connection] incoming connection: 127.0.0.1:53878 id: 0
+[19:59:47] [join] Cagus has joined the server (0:127.0.0.1)
+[19:59:47] Resetting player statistics for ID 0
+[20:00:04] [nick] Cagus nick changed to Cagus_Styler
+[20:00:24] Resetting player statistics for ID 0
+[20:00:24] [part] Cagus_Styler has left the server (0:1)
+[20:00:57] [connection] incoming connection: 127.0.0.1:55988 id: 0
+[20:00:57] [join] Cagus has joined the server (0:127.0.0.1)
+[20:00:57] Resetting player statistics for ID 0
+[20:01:01] [nick] Cagus nick changed to Cagus_Styler
+[20:01:16] Resetting player statistics for ID 0
+[20:01:16] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:06:29] password = ""  (string)
+[20:06:29] filterscripts = ""  (string)
+[20:06:29] 
+[20:06:29] Server Plugins
+[20:06:29] --------------
+[20:06:29]  Loading plugin: crashdetect
+[20:06:29]   CrashDetect plugin 4.19.4
+[20:06:29]   Loaded.
+[20:06:29]  Loading plugin: sscanf
+[20:06:29] 
+
+[20:06:29]  ===============================
+
+[20:06:29]       sscanf plugin loaded.     
+
+[20:06:29]          Version:  2.8.3        
+
+[20:06:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:06:29]  ===============================
+
+[20:06:29]   Loaded.
+[20:06:29]  Loading plugin: streamer
+[20:06:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:06:29]   Loaded.
+[20:06:29]  Loading plugin: mysql
+[20:06:29]  >> plugin.mysql: R41-4 successfully loaded.
+[20:06:29]   Loaded.
+[20:06:29]  Loaded 4 plugins.
+
+[20:06:29] 
+[20:06:29] Filterscripts
+[20:06:29] ---------------
+[20:06:29]   Loaded 0 filterscripts.
+
+[20:06:29]  
+[20:06:29]  
+[20:06:29]  
+[20:06:29]  ======================================= 
+[20:06:29]  |                                     | 
+[20:06:29]  |        YSI version 4.00.0001        | 
+[20:06:29]  |        By Alex "Y_Less" Cole        | 
+[20:06:29]  |                                     | 
+[20:06:29]  ======================================= 
+[20:06:29]  
+[20:06:29] [OnGameModeInit] Initialising 'Main'...
+[20:06:29] [Database] Connected!
+[20:06:29] Number of vehicle models: 0
+[20:06:51] [connection] incoming connection: 127.0.0.1:64885 id: 0
+[20:06:51] [join] Cagus has joined the server (0:127.0.0.1)
+[20:06:51] Resetting player statistics for ID 0
+[20:06:55] [nick] Cagus nick changed to Cagus_Styler
+[20:08:36] Resetting player statistics for ID 0
+[20:08:36] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:08:45] password = ""  (string)
+[20:08:45] filterscripts = ""  (string)
+[20:08:45] 
+[20:08:45] Server Plugins
+[20:08:45] --------------
+[20:08:45]  Loading plugin: crashdetect
+[20:08:45]   CrashDetect plugin 4.19.4
+[20:08:45]   Loaded.
+[20:08:45]  Loading plugin: sscanf
+[20:08:45] 
+
+[20:08:45]  ===============================
+
+[20:08:45]       sscanf plugin loaded.     
+
+[20:08:45]          Version:  2.8.3        
+
+[20:08:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:08:45]  ===============================
+
+[20:08:45]   Loaded.
+[20:08:45]  Loading plugin: streamer
+[20:08:45] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:08:45]   Loaded.
+[20:08:45]  Loading plugin: mysql
+[20:08:45]  >> plugin.mysql: R41-4 successfully loaded.
+[20:08:45]   Loaded.
+[20:08:45]  Loaded 4 plugins.
+
+[20:08:45] 
+[20:08:45] Filterscripts
+[20:08:45] ---------------
+[20:08:45]   Loaded 0 filterscripts.
+
+[20:08:45]  
+[20:08:45]  
+[20:08:45]  
+[20:08:45]  ======================================= 
+[20:08:45]  |                                     | 
+[20:08:45]  |        YSI version 4.00.0001        | 
+[20:08:45]  |        By Alex "Y_Less" Cole        | 
+[20:08:45]  |                                     | 
+[20:08:45]  ======================================= 
+[20:08:45]  
+[20:08:45] [OnGameModeInit] Initialising 'Main'...
+[20:08:45] [Database] Connected!
+[20:08:45] Number of vehicle models: 0
+[20:09:05] [connection] incoming connection: 127.0.0.1:58258 id: 0
+[20:09:06] [join] Cagus has joined the server (0:127.0.0.1)
+[20:09:06] Resetting player statistics for ID 0
+[20:09:11] [nick] Cagus nick changed to Cagus_Styler
+[20:09:18] Resetting player statistics for ID 0
+[20:09:18] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:11:13] password = ""  (string)
+[20:11:13] filterscripts = ""  (string)
+[20:11:13] 
+[20:11:13] Server Plugins
+[20:11:13] --------------
+[20:11:13]  Loading plugin: crashdetect
+[20:11:13]   CrashDetect plugin 4.19.4
+[20:11:13]   Loaded.
+[20:11:13]  Loading plugin: sscanf
+[20:11:13] 
+
+[20:11:13]  ===============================
+
+[20:11:13]       sscanf plugin loaded.     
+
+[20:11:13]          Version:  2.8.3        
+
+[20:11:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:11:13]  ===============================
+
+[20:11:13]   Loaded.
+[20:11:13]  Loading plugin: streamer
+[20:11:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:11:13]   Loaded.
+[20:11:13]  Loading plugin: mysql
+[20:11:13]  >> plugin.mysql: R41-4 successfully loaded.
+[20:11:13]   Loaded.
+[20:11:13]  Loaded 4 plugins.
+
+[20:11:13] 
+[20:11:13] Filterscripts
+[20:11:13] ---------------
+[20:11:13]   Loaded 0 filterscripts.
+
+[20:11:13]  
+[20:11:13]  
+[20:11:13]  
+[20:11:13]  ======================================= 
+[20:11:13]  |                                     | 
+[20:11:13]  |        YSI version 4.00.0001        | 
+[20:11:13]  |        By Alex "Y_Less" Cole        | 
+[20:11:13]  |                                     | 
+[20:11:13]  ======================================= 
+[20:11:13]  
+[20:11:13] [OnGameModeInit] Initialising 'Main'...
+[20:11:14] [Database] Connected!
+[20:11:14] Number of vehicle models: 0
+[20:11:49] [connection] incoming connection: 127.0.0.1:49733 id: 0
+[20:11:49] [join] Cagus has joined the server (0:127.0.0.1)
+[20:11:49] Resetting player statistics for ID 0
+[20:11:54] [nick] Cagus nick changed to Cagus_Styler
+[20:12:04] Resetting player statistics for ID 0
+[20:12:04] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:59:28] password = ""  (string)
+[21:59:28] filterscripts = ""  (string)
+[21:59:28] 
+[21:59:28] Server Plugins
+[21:59:28] --------------
+[21:59:28]  Loading plugin: crashdetect
+[21:59:28]   CrashDetect plugin 4.19.4
+[21:59:28]   Loaded.
+[21:59:28]  Loading plugin: sscanf
+[21:59:28] 
+
+[21:59:28]  ===============================
+
+[21:59:28]       sscanf plugin loaded.     
+
+[21:59:28]          Version:  2.8.3        
+
+[21:59:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:59:28]  ===============================
+
+[21:59:28]   Loaded.
+[21:59:28]  Loading plugin: streamer
+[21:59:28] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:59:28]   Loaded.
+[21:59:28]  Loading plugin: mysql
+[21:59:29]  >> plugin.mysql: R41-4 successfully loaded.
+[21:59:29]   Loaded.
+[21:59:29]  Loaded 4 plugins.
+
+[21:59:29] 
+[21:59:29] Filterscripts
+[21:59:29] ---------------
+[21:59:29]   Loaded 0 filterscripts.
+
+[21:59:29]  
+[21:59:29]  
+[21:59:29]  
+[21:59:29]  ======================================= 
+[21:59:29]  |                                     | 
+[21:59:29]  |        YSI version 4.00.0001        | 
+[21:59:29]  |        By Alex "Y_Less" Cole        | 
+[21:59:29]  |                                     | 
+[21:59:29]  ======================================= 
+[21:59:29]  
+[21:59:29] [OnGameModeInit] Initialising 'Main'...
+[21:59:29] [Database] Connected!
+[21:59:29] Number of vehicle models: 0
+[22:00:07] [connection] incoming connection: 127.0.0.1:56821 id: 0
+[22:00:07] [join] Cagus has joined the server (0:127.0.0.1)
+[22:00:07] Resetting player statistics for ID 0
+[22:00:13] Resetting player statistics for ID 0
+[22:00:13] [part] Cagus has left the server (0:1)
+[22:01:16] [connection] incoming connection: 127.0.0.1:60375 id: 0
+[22:01:16] [join] Cagus has joined the server (0:127.0.0.1)
+[22:01:16] Resetting player statistics for ID 0
+[22:01:22] Resetting player statistics for ID 0
+[22:01:22] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:02:12] password = ""  (string)
+[22:02:12] filterscripts = ""  (string)
+[22:02:12] 
+[22:02:12] Server Plugins
+[22:02:12] --------------
+[22:02:12]  Loading plugin: crashdetect
+[22:02:12]   CrashDetect plugin 4.19.4
+[22:02:12]   Loaded.
+[22:02:12]  Loading plugin: sscanf
+[22:02:12] 
+
+[22:02:12]  ===============================
+
+[22:02:12]       sscanf plugin loaded.     
+
+[22:02:12]          Version:  2.8.3        
+
+[22:02:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:02:12]  ===============================
+
+[22:02:12]   Loaded.
+[22:02:12]  Loading plugin: streamer
+[22:02:12] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:02:12]   Loaded.
+[22:02:12]  Loading plugin: mysql
+[22:02:12]  >> plugin.mysql: R41-4 successfully loaded.
+[22:02:12]   Loaded.
+[22:02:12]  Loaded 4 plugins.
+
+[22:02:12] 
+[22:02:12] Filterscripts
+[22:02:12] ---------------
+[22:02:12]   Loaded 0 filterscripts.
+
+[22:02:12]  
+[22:02:12]  
+[22:02:12]  
+[22:02:12]  ======================================= 
+[22:02:12]  |                                     | 
+[22:02:12]  |        YSI version 4.00.0001        | 
+[22:02:12]  |        By Alex "Y_Less" Cole        | 
+[22:02:12]  |                                     | 
+[22:02:12]  ======================================= 
+[22:02:12]  
+[22:02:12] [OnGameModeInit] Initialising 'Main'...
+[22:02:12] [Database] Connected!
+[22:02:12] Number of vehicle models: 0
+[22:02:33] [connection] incoming connection: 127.0.0.1:51727 id: 0
+[22:02:34] [join] Cagus has joined the server (0:127.0.0.1)
+[22:02:34] Resetting player statistics for ID 0
+[22:02:50] [nick] Cagus nick changed to Cagus_Styler
+[22:03:25] Resetting player statistics for ID 0
+[22:03:25] [part] Cagus_Styler has left the server (0:1)
+[22:03:47] [connection] incoming connection: 127.0.0.1:53846 id: 0
+[22:03:48] [join] Cagus has joined the server (0:127.0.0.1)
+[22:03:48] Resetting player statistics for ID 0
+[22:03:51] [nick] Cagus nick changed to Cagus_Styler
+[22:03:58] Resetting player statistics for ID 0
+[22:03:58] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:11:29] password = ""  (string)
+[22:11:29] filterscripts = ""  (string)
+[22:11:29] 
+[22:11:29] Server Plugins
+[22:11:29] --------------
+[22:11:29]  Loading plugin: crashdetect
+[22:11:29]   CrashDetect plugin 4.19.4
+[22:11:29]   Loaded.
+[22:11:29]  Loading plugin: sscanf
+[22:11:29] 
+
+[22:11:29]  ===============================
+
+[22:11:29]       sscanf plugin loaded.     
+
+[22:11:29]          Version:  2.8.3        
+
+[22:11:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:11:29]  ===============================
+
+[22:11:29]   Loaded.
+[22:11:29]  Loading plugin: streamer
+[22:11:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:11:29]   Loaded.
+[22:11:29]  Loading plugin: mysql
+[22:11:29]  >> plugin.mysql: R41-4 successfully loaded.
+[22:11:29]   Loaded.
+[22:11:29]  Loaded 4 plugins.
+
+[22:11:29] 
+[22:11:29] Filterscripts
+[22:11:29] ---------------
+[22:11:29]   Loaded 0 filterscripts.
+
+[22:11:29]  
+[22:11:29]  
+[22:11:29]  
+[22:11:29]  ======================================= 
+[22:11:29]  |                                     | 
+[22:11:29]  |        YSI version 4.00.0001        | 
+[22:11:29]  |        By Alex "Y_Less" Cole        | 
+[22:11:29]  |                                     | 
+[22:11:29]  ======================================= 
+[22:11:29]  
+[22:11:29] [OnGameModeInit] Initialising 'Main'...
+[22:11:29] [Database] Connected!
+[22:11:29] Number of vehicle models: 0
+[22:11:50] [connection] incoming connection: 127.0.0.1:64548 id: 0
+[22:11:50] [join] Cagus has joined the server (0:127.0.0.1)
+[22:11:50] Resetting player statistics for ID 0
+[22:11:54] [nick] Cagus nick changed to Cagus_Styler
+[22:11:59] Resetting player statistics for ID 0
+[22:11:59] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:27:52] password = ""  (string)
+[22:27:52] filterscripts = ""  (string)
+[22:27:52] 
+[22:27:52] Server Plugins
+[22:27:52] --------------
+[22:27:52]  Loading plugin: crashdetect
+[22:27:52]   CrashDetect plugin 4.19.4
+[22:27:52]   Loaded.
+[22:27:52]  Loading plugin: sscanf
+[22:27:52] 
+
+[22:27:52]  ===============================
+
+[22:27:52]       sscanf plugin loaded.     
+
+[22:27:52]          Version:  2.8.3        
+
+[22:27:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:27:52]  ===============================
+
+[22:27:52]   Loaded.
+[22:27:52]  Loading plugin: streamer
+[22:27:52] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:27:52]   Loaded.
+[22:27:52]  Loading plugin: mysql
+[22:27:52]  >> plugin.mysql: R41-4 successfully loaded.
+[22:27:52]   Loaded.
+[22:27:52]  Loaded 4 plugins.
+
+[22:27:52] 
+[22:27:52] Filterscripts
+[22:27:52] ---------------
+[22:27:52]   Loaded 0 filterscripts.
+
+[22:27:52]  
+[22:27:52]  
+[22:27:52]  
+[22:27:52]  ======================================= 
+[22:27:52]  |                                     | 
+[22:27:52]  |        YSI version 4.00.0001        | 
+[22:27:52]  |        By Alex "Y_Less" Cole        | 
+[22:27:52]  |                                     | 
+[22:27:52]  ======================================= 
+[22:27:52]  
+[22:27:52] [OnGameModeInit] Initialising 'Main'...
+[22:27:52] [Database] Connected!
+[22:27:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:31:08] password = ""  (string)
+[22:31:08] filterscripts = ""  (string)
+[22:31:08] 
+[22:31:08] Server Plugins
+[22:31:08] --------------
+[22:31:08]  Loading plugin: crashdetect
+[22:31:08]   CrashDetect plugin 4.19.4
+[22:31:08]   Loaded.
+[22:31:08]  Loading plugin: sscanf
+[22:31:08] 
+
+[22:31:08]  ===============================
+
+[22:31:08]       sscanf plugin loaded.     
+
+[22:31:08]          Version:  2.8.3        
+
+[22:31:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:31:08]  ===============================
+
+[22:31:08]   Loaded.
+[22:31:08]  Loading plugin: streamer
+[22:31:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:31:08]   Loaded.
+[22:31:08]  Loading plugin: mysql
+[22:31:08]  >> plugin.mysql: R41-4 successfully loaded.
+[22:31:08]   Loaded.
+[22:31:08]  Loaded 4 plugins.
+
+[22:31:08] 
+[22:31:08] Filterscripts
+[22:31:08] ---------------
+[22:31:08]   Loaded 0 filterscripts.
+
+[22:31:08]  
+[22:31:08]  
+[22:31:08]  
+[22:31:08]  ======================================= 
+[22:31:08]  |                                     | 
+[22:31:08]  |        YSI version 4.00.0001        | 
+[22:31:08]  |        By Alex "Y_Less" Cole        | 
+[22:31:08]  |                                     | 
+[22:31:08]  ======================================= 
+[22:31:08]  
+[22:31:08] [OnGameModeInit] Initialising 'Main'...
+[22:31:08] [Database] Connected!
+[22:31:08] Number of vehicle models: 0
+[22:31:29] [connection] incoming connection: 127.0.0.1:56276 id: 0
+[22:31:29] [join] Cagus has joined the server (0:127.0.0.1)
+[22:31:29] Resetting player statistics for ID 0
+[22:31:35] [nick] Cagus nick changed to Cagus_Styler
+[22:32:42] Resetting player statistics for ID 0
+[22:32:42] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:50:55] password = ""  (string)
+[22:50:55] filterscripts = ""  (string)
+[22:50:55] 
+[22:50:55] Server Plugins
+[22:50:55] --------------
+[22:50:55]  Loading plugin: crashdetect
+[22:50:55]   CrashDetect plugin 4.19.4
+[22:50:55]   Loaded.
+[22:50:55]  Loading plugin: sscanf
+[22:50:55] 
+
+[22:50:55]  ===============================
+
+[22:50:55]       sscanf plugin loaded.     
+
+[22:50:55]          Version:  2.8.3        
+
+[22:50:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:50:55]  ===============================
+
+[22:50:55]   Loaded.
+[22:50:55]  Loading plugin: streamer
+[22:50:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:50:55]   Loaded.
+[22:50:55]  Loading plugin: mysql
+[22:50:55]  >> plugin.mysql: R41-4 successfully loaded.
+[22:50:55]   Loaded.
+[22:50:55]  Loaded 4 plugins.
+
+[22:50:55] 
+[22:50:55] Filterscripts
+[22:50:55] ---------------
+[22:50:55]   Loaded 0 filterscripts.
+
+[22:50:55]  
+[22:50:55]  
+[22:50:55]  
+[22:50:55]  ======================================= 
+[22:50:55]  |                                     | 
+[22:50:55]  |        YSI version 4.00.0001        | 
+[22:50:55]  |        By Alex "Y_Less" Cole        | 
+[22:50:55]  |                                     | 
+[22:50:55]  ======================================= 
+[22:50:55]  
+[22:50:55] [OnGameModeInit] Initialising 'Main'...
+[22:50:55] [Database] Connected!
+[22:50:55] Number of vehicle models: 0
+[22:51:48] [connection] incoming connection: 127.0.0.1:53886 id: 0
+[22:51:48] [join] Cagus has joined the server (0:127.0.0.1)
+[22:51:48] Resetting player statistics for ID 0
+[22:51:52] [nick] Cagus nick changed to Cagus_Styler
+[22:54:11] Resetting player statistics for ID 0
+[22:54:11] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:05:57] password = ""  (string)
+[23:05:57] filterscripts = ""  (string)
+[23:05:57] 
+[23:05:57] Server Plugins
+[23:05:57] --------------
+[23:05:57]  Loading plugin: crashdetect
+[23:05:57]   CrashDetect plugin 4.19.4
+[23:05:57]   Loaded.
+[23:05:57]  Loading plugin: sscanf
+[23:05:57] 
+
+[23:05:57]  ===============================
+
+[23:05:57]       sscanf plugin loaded.     
+
+[23:05:57]          Version:  2.8.3        
+
+[23:05:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:05:57]  ===============================
+
+[23:05:57]   Loaded.
+[23:05:57]  Loading plugin: streamer
+[23:05:57] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:05:57]   Loaded.
+[23:05:57]  Loading plugin: mysql
+[23:05:57]  >> plugin.mysql: R41-4 successfully loaded.
+[23:05:57]   Loaded.
+[23:05:57]  Loaded 4 plugins.
+
+[23:05:57] 
+[23:05:57] Filterscripts
+[23:05:57] ---------------
+[23:05:57]   Loaded 0 filterscripts.
+
+[23:05:57]  
+[23:05:57]  
+[23:05:57]  
+[23:05:57]  ======================================= 
+[23:05:57]  |                                     | 
+[23:05:57]  |        YSI version 4.00.0001        | 
+[23:05:57]  |        By Alex "Y_Less" Cole        | 
+[23:05:57]  |                                     | 
+[23:05:57]  ======================================= 
+[23:05:57]  
+[23:05:57] [OnGameModeInit] Initialising 'Main'...
+[23:05:57] [Database] Connected!
+[23:05:57] 
+----------------------------------------
+[23:05:57]  Gamemode Ucp versi 0.1 register dan login
+[23:05:57] ----------------------------------------
+
+[23:05:57] Number of vehicle models: 0
+[23:06:25] [connection] incoming connection: 127.0.0.1:50952 id: 0
+[23:06:26] [join] Cagus has joined the server (0:127.0.0.1)
+[23:06:26] Resetting player statistics for ID 0
+[23:06:38] Resetting player statistics for ID 0
+[23:06:38] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:08:48] password = ""  (string)
+[23:08:48] filterscripts = ""  (string)
+[23:08:48] 
+[23:08:48] Server Plugins
+[23:08:48] --------------
+[23:08:48]  Loading plugin: crashdetect
+[23:08:48]   CrashDetect plugin 4.19.4
+[23:08:48]   Loaded.
+[23:08:48]  Loading plugin: sscanf
+[23:08:48] 
+
+[23:08:48]  ===============================
+
+[23:08:48]       sscanf plugin loaded.     
+
+[23:08:48]          Version:  2.8.3        
+
+[23:08:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:08:48]  ===============================
+
+[23:08:48]   Loaded.
+[23:08:48]  Loading plugin: streamer
+[23:08:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:08:48]   Loaded.
+[23:08:48]  Loading plugin: mysql
+[23:08:48]  >> plugin.mysql: R41-4 successfully loaded.
+[23:08:48]   Loaded.
+[23:08:48]  Loaded 4 plugins.
+
+[23:08:48] 
+[23:08:48] Filterscripts
+[23:08:48] ---------------
+[23:08:48]   Loaded 0 filterscripts.
+
+[23:08:48]  
+[23:08:48]  
+[23:08:48]  
+[23:08:48]  ======================================= 
+[23:08:48]  |                                     | 
+[23:08:48]  |        YSI version 4.00.0001        | 
+[23:08:48]  |        By Alex "Y_Less" Cole        | 
+[23:08:48]  |                                     | 
+[23:08:48]  ======================================= 
+[23:08:48]  
+[23:08:48] [OnGameModeInit] Initialising 'Main'...
+[23:08:48] [Database] Connected!
+[23:08:48] 
+----------------------------------------
+[23:08:48]  Gamemode Ucp versi 0.1 register dan login
+[23:08:48] ----------------------------------------
+
+[23:08:48] Number of vehicle models: 0
+[23:09:12] [connection] incoming connection: 127.0.0.1:63034 id: 0
+[23:09:12] [join] Cagus has joined the server (0:127.0.0.1)
+[23:09:12] Resetting player statistics for ID 0
+[23:09:18] Resetting player statistics for ID 0
+[23:09:18] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:11:38] password = ""  (string)
+[23:11:38] filterscripts = ""  (string)
+[23:11:38] 
+[23:11:38] Server Plugins
+[23:11:38] --------------
+[23:11:38]  Loading plugin: crashdetect
+[23:11:38]   CrashDetect plugin 4.19.4
+[23:11:38]   Loaded.
+[23:11:38]  Loading plugin: sscanf
+[23:11:38] 
+
+[23:11:38]  ===============================
+
+[23:11:38]       sscanf plugin loaded.     
+
+[23:11:38]          Version:  2.8.3        
+
+[23:11:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:11:38]  ===============================
+
+[23:11:38]   Loaded.
+[23:11:38]  Loading plugin: streamer
+[23:11:38] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:11:38]   Loaded.
+[23:11:38]  Loading plugin: mysql
+[23:11:38]  >> plugin.mysql: R41-4 successfully loaded.
+[23:11:38]   Loaded.
+[23:11:38]  Loaded 4 plugins.
+
+[23:11:38] 
+[23:11:38] Filterscripts
+[23:11:38] ---------------
+[23:11:38]   Loaded 0 filterscripts.
+
+[23:11:38]  
+[23:11:38]  
+[23:11:38]  
+[23:11:38]  ======================================= 
+[23:11:38]  |                                     | 
+[23:11:38]  |        YSI version 4.00.0001        | 
+[23:11:38]  |        By Alex "Y_Less" Cole        | 
+[23:11:38]  |                                     | 
+[23:11:38]  ======================================= 
+[23:11:38]  
+[23:11:38] [OnGameModeInit] Initialising 'Main'...
+[23:11:38] [Database] Connected!
+[23:11:38] 
+----------------------------------------
+[23:11:38]  Gamemode Ucp versi 0.1 register dan login
+[23:11:38] ----------------------------------------
+
+[23:11:38] Number of vehicle models: 0
+[23:12:02] [connection] incoming connection: 127.0.0.1:64750 id: 0
+[23:12:03] [join] Cagus has joined the server (0:127.0.0.1)
+[23:12:03] Resetting player statistics for ID 0
+[23:12:09] Resetting player statistics for ID 0
+[23:12:09] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:14:30] password = ""  (string)
+[23:14:30] filterscripts = ""  (string)
+[23:14:30] 
+[23:14:30] Server Plugins
+[23:14:30] --------------
+[23:14:30]  Loading plugin: crashdetect
+[23:14:30]   CrashDetect plugin 4.19.4
+[23:14:30]   Loaded.
+[23:14:30]  Loading plugin: sscanf
+[23:14:30] 
+
+[23:14:30]  ===============================
+
+[23:14:30]       sscanf plugin loaded.     
+
+[23:14:30]          Version:  2.8.3        
+
+[23:14:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:14:30]  ===============================
+
+[23:14:30]   Loaded.
+[23:14:30]  Loading plugin: streamer
+[23:14:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:14:30]   Loaded.
+[23:14:30]  Loading plugin: mysql
+[23:14:30]  >> plugin.mysql: R41-4 successfully loaded.
+[23:14:30]   Loaded.
+[23:14:30]  Loaded 4 plugins.
+
+[23:14:30] 
+[23:14:30] Filterscripts
+[23:14:30] ---------------
+[23:14:30]   Loaded 0 filterscripts.
+
+[23:14:30]  
+[23:14:30]  
+[23:14:30]  
+[23:14:30]  ======================================= 
+[23:14:30]  |                                     | 
+[23:14:30]  |        YSI version 4.00.0001        | 
+[23:14:30]  |        By Alex "Y_Less" Cole        | 
+[23:14:30]  |                                     | 
+[23:14:30]  ======================================= 
+[23:14:30]  
+[23:14:30] [OnGameModeInit] Initialising 'Main'...
+[23:14:30] [Database] Connected!
+[23:14:30] 
+----------------------------------------
+[23:14:30]  Gamemode Ucp versi 0.1 register dan login
+[23:14:30] ----------------------------------------
+
+[23:14:30] Number of vehicle models: 0
+[23:14:51] [connection] incoming connection: 127.0.0.1:54425 id: 0
+[23:14:51] [join] Cagus has joined the server (0:127.0.0.1)
+[23:14:51] Resetting player statistics for ID 0
+[23:14:57] Resetting player statistics for ID 0
+[23:14:57] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:26:44] password = ""  (string)
+[23:26:44] filterscripts = ""  (string)
+[23:26:44] 
+[23:26:44] Server Plugins
+[23:26:44] --------------
+[23:26:44]  Loading plugin: crashdetect
+[23:26:44]   CrashDetect plugin 4.19.4
+[23:26:44]   Loaded.
+[23:26:44]  Loading plugin: sscanf
+[23:26:44] 
+
+[23:26:44]  ===============================
+
+[23:26:44]       sscanf plugin loaded.     
+
+[23:26:44]          Version:  2.8.3        
+
+[23:26:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:26:44]  ===============================
+
+[23:26:44]   Loaded.
+[23:26:44]  Loading plugin: streamer
+[23:26:44] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:26:44]   Loaded.
+[23:26:44]  Loading plugin: mysql
+[23:26:44]  >> plugin.mysql: R41-4 successfully loaded.
+[23:26:44]   Loaded.
+[23:26:44]  Loaded 4 plugins.
+
+[23:26:44] 
+[23:26:44] Filterscripts
+[23:26:44] ---------------
+[23:26:44]   Loaded 0 filterscripts.
+
+[23:26:44]  
+[23:26:44]  
+[23:26:44]  
+[23:26:44]  ======================================= 
+[23:26:44]  |                                     | 
+[23:26:44]  |        YSI version 4.00.0001        | 
+[23:26:44]  |        By Alex "Y_Less" Cole        | 
+[23:26:44]  |                                     | 
+[23:26:44]  ======================================= 
+[23:26:44]  
+[23:26:44] [OnGameModeInit] Initialising 'Main'...
+[23:26:44] [Database] Connected!
+[23:26:44] 
+----------------------------------------
+[23:26:44]  Gamemode Ucp versi 0.1 register dan login
+[23:26:44] ----------------------------------------
+
+[23:26:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:27:24] password = ""  (string)
+[23:27:24] filterscripts = ""  (string)
+[23:27:24] 
+[23:27:24] Server Plugins
+[23:27:24] --------------
+[23:27:24]  Loading plugin: crashdetect
+[23:27:24]   CrashDetect plugin 4.19.4
+[23:27:24]   Loaded.
+[23:27:24]  Loading plugin: sscanf
+[23:27:24] 
+
+[23:27:24]  ===============================
+
+[23:27:24]       sscanf plugin loaded.     
+
+[23:27:24]          Version:  2.8.3        
+
+[23:27:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:27:24]  ===============================
+
+[23:27:24]   Loaded.
+[23:27:24]  Loading plugin: streamer
+[23:27:24] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:27:24]   Loaded.
+[23:27:24]  Loading plugin: mysql
+[23:27:24]  >> plugin.mysql: R41-4 successfully loaded.
+[23:27:24]   Loaded.
+[23:27:24]  Loaded 4 plugins.
+
+[23:27:25] 
+[23:27:25] Filterscripts
+[23:27:25] ---------------
+[23:27:25]   Loaded 0 filterscripts.
+
+[23:27:25]  
+[23:27:25]  
+[23:27:25]  
+[23:27:25]  ======================================= 
+[23:27:25]  |                                     | 
+[23:27:25]  |        YSI version 4.00.0001        | 
+[23:27:25]  |        By Alex "Y_Less" Cole        | 
+[23:27:25]  |                                     | 
+[23:27:25]  ======================================= 
+[23:27:25]  
+[23:27:25] [OnGameModeInit] Initialising 'Main'...
+[23:27:25] [Database] Connected!
+[23:27:25] 
+----------------------------------------
+[23:27:25]  Gamemode Ucp versi 0.1 register dan login
+[23:27:25] ----------------------------------------
+
+[23:27:25] Number of vehicle models: 0
+[23:27:51] [connection] incoming connection: 127.0.0.1:52077 id: 0
+[23:27:51] [join] Cagus has joined the server (0:127.0.0.1)
+[23:27:51] Resetting player statistics for ID 0
+[23:27:55] [nick] Cagus nick changed to Cagus_Styler
+[23:29:30] Resetting player statistics for ID 0
+[23:29:30] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:40:54] password = ""  (string)
+[23:40:54] filterscripts = ""  (string)
+[23:40:54] 
+[23:40:54] Server Plugins
+[23:40:54] --------------
+[23:40:54]  Loading plugin: crashdetect
+[23:40:54]   CrashDetect plugin 4.19.4
+[23:40:54]   Loaded.
+[23:40:54]  Loading plugin: sscanf
+[23:40:54] 
+
+[23:40:54]  ===============================
+
+[23:40:54]       sscanf plugin loaded.     
+
+[23:40:54]          Version:  2.8.3        
+
+[23:40:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:40:54]  ===============================
+
+[23:40:54]   Loaded.
+[23:40:54]  Loading plugin: streamer
+[23:40:54] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:40:54]   Loaded.
+[23:40:54]  Loading plugin: mysql
+[23:40:54]  >> plugin.mysql: R41-4 successfully loaded.
+[23:40:54]   Loaded.
+[23:40:54]  Loaded 4 plugins.
+
+[23:40:54] 
+[23:40:54] Filterscripts
+[23:40:54] ---------------
+[23:40:54]   Loaded 0 filterscripts.
+
+[23:40:54]  
+[23:40:54]  
+[23:40:54]  
+[23:40:54]  ======================================= 
+[23:40:54]  |                                     | 
+[23:40:54]  |        YSI version 4.00.0001        | 
+[23:40:54]  |        By Alex "Y_Less" Cole        | 
+[23:40:54]  |                                     | 
+[23:40:54]  ======================================= 
+[23:40:54]  
+[23:40:54] [OnGameModeInit] Initialising 'Main'...
+[23:40:54] [Database] Connected!
+[23:40:54] 
+----------------------------------------
+[23:40:54]  Gamemode Ucp versi 0.1 register dan login
+[23:40:54] ----------------------------------------
+
+[23:40:54] Number of vehicle models: 0
+[23:41:16] [connection] incoming connection: 127.0.0.1:60426 id: 0
+[23:41:16] [join] Cagus has joined the server (0:127.0.0.1)
+[23:41:16] Resetting player statistics for ID 0
+[23:41:37] [nick] Cagus nick changed to Cagus_Styler
+[23:42:31] [chat] [Cagus_Styler]: hahaha
+[23:42:39] Resetting player statistics for ID 0
+[23:42:39] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:48:34] password = ""  (string)
+[23:48:34] filterscripts = ""  (string)
+[23:48:34] 
+[23:48:34] Server Plugins
+[23:48:34] --------------
+[23:48:34]  Loading plugin: crashdetect
+[23:48:34]   CrashDetect plugin 4.19.4
+[23:48:34]   Loaded.
+[23:48:34]  Loading plugin: sscanf
+[23:48:34] 
+
+[23:48:34]  ===============================
+
+[23:48:34]       sscanf plugin loaded.     
+
+[23:48:34]          Version:  2.8.3        
+
+[23:48:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:48:34]  ===============================
+
+[23:48:34]   Loaded.
+[23:48:34]  Loading plugin: streamer
+[23:48:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:48:34]   Loaded.
+[23:48:34]  Loading plugin: mysql
+[23:48:34]  >> plugin.mysql: R41-4 successfully loaded.
+[23:48:34]   Loaded.
+[23:48:34]  Loaded 4 plugins.
+
+[23:48:34] 
+[23:48:34] Filterscripts
+[23:48:34] ---------------
+[23:48:34]   Loaded 0 filterscripts.
+
+[23:48:34]  
+[23:48:34]  
+[23:48:34]  
+[23:48:34]  ======================================= 
+[23:48:34]  |                                     | 
+[23:48:34]  |        YSI version 4.00.0001        | 
+[23:48:34]  |        By Alex "Y_Less" Cole        | 
+[23:48:34]  |                                     | 
+[23:48:34]  ======================================= 
+[23:48:34]  
+[23:48:34] [OnGameModeInit] Initialising 'Main'...
+[23:48:34] [Database] Connected!
+[23:48:34] 
+----------------------------------------
+[23:48:34]  Gamemode Ucp versi 0.1 register dan login
+[23:48:34] ----------------------------------------
+
+[23:48:34] Number of vehicle models: 0
+[23:48:55] [connection] incoming connection: 127.0.0.1:61522 id: 0
+[23:48:55] [join] Cagus has joined the server (0:127.0.0.1)
+[23:48:55] Resetting player statistics for ID 0
+[23:49:09] [nick] Cagus nick changed to Cagus_Styler
+[23:49:14] Resetting player statistics for ID 0
+[23:49:14] [part] Cagus_Styler has left the server (0:1)
+[23:49:43] [connection] incoming connection: 127.0.0.1:63415 id: 0
+[23:49:43] [join] Cagus has joined the server (0:127.0.0.1)
+[23:49:43] Resetting player statistics for ID 0
+[23:50:06] [nick] Cagus nick changed to Cagus_Styler
+[23:50:21] Resetting player statistics for ID 0
+[23:50:21] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:56:03] password = ""  (string)
+[23:56:03] filterscripts = ""  (string)
+[23:56:03] 
+[23:56:03] Server Plugins
+[23:56:03] --------------
+[23:56:03]  Loading plugin: crashdetect
+[23:56:03]   CrashDetect plugin 4.19.4
+[23:56:03]   Loaded.
+[23:56:03]  Loading plugin: sscanf
+[23:56:03] 
+
+[23:56:03]  ===============================
+
+[23:56:03]       sscanf plugin loaded.     
+
+[23:56:03]          Version:  2.8.3        
+
+[23:56:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:56:03]  ===============================
+
+[23:56:03]   Loaded.
+[23:56:03]  Loading plugin: streamer
+[23:56:03] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:56:03]   Loaded.
+[23:56:03]  Loading plugin: mysql
+[23:56:03]  >> plugin.mysql: R41-4 successfully loaded.
+[23:56:03]   Loaded.
+[23:56:03]  Loaded 4 plugins.
+
+[23:56:03] 
+[23:56:03] Filterscripts
+[23:56:03] ---------------
+[23:56:03]   Loaded 0 filterscripts.
+
+[23:56:03]  
+[23:56:03]  
+[23:56:03]  
+[23:56:03]  ======================================= 
+[23:56:03]  |                                     | 
+[23:56:03]  |        YSI version 4.00.0001        | 
+[23:56:03]  |        By Alex "Y_Less" Cole        | 
+[23:56:03]  |                                     | 
+[23:56:03]  ======================================= 
+[23:56:03]  
+[23:56:03] [OnGameModeInit] Initialising 'Main'...
+[23:56:03] [Database] Connected!
+[23:56:03] 
+----------------------------------------
+[23:56:03]  Gamemode Ucp versi 0.1 register dan login
+[23:56:03] ----------------------------------------
+
+[23:56:03] Number of vehicle models: 0
+[23:56:34] [connection] incoming connection: 127.0.0.1:63567 id: 0
+[23:56:34] [join] Cagus has joined the server (0:127.0.0.1)
+[23:56:34] Resetting player statistics for ID 0
+[23:56:54] [nick] Cagus nick changed to Cagus_Styler
+[23:57:37] Resetting player statistics for ID 0
+[23:57:37] [part] Cagus_Styler has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:06:27] password = ""  (string)
+[00:06:27] filterscripts = ""  (string)
+[00:06:27] 
+[00:06:27] Server Plugins
+[00:06:27] --------------
+[00:06:27]  Loading plugin: crashdetect
+[00:06:27]   CrashDetect plugin 4.19.4
+[00:06:27]   Loaded.
+[00:06:27]  Loading plugin: sscanf
+[00:06:27] 
+
+[00:06:27]  ===============================
+
+[00:06:27]       sscanf plugin loaded.     
+
+[00:06:27]          Version:  2.8.3        
+
+[00:06:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:06:27]  ===============================
+
+[00:06:27]   Loaded.
+[00:06:27]  Loading plugin: streamer
+[00:06:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:06:27]   Loaded.
+[00:06:27]  Loading plugin: mysql
+[00:06:27]  >> plugin.mysql: R41-4 successfully loaded.
+[00:06:27]   Loaded.
+[00:06:27]  Loaded 4 plugins.
+
+[00:06:27] 
+[00:06:27] Filterscripts
+[00:06:27] ---------------
+[00:06:27]   Loaded 0 filterscripts.
+
+[00:06:27]  
+[00:06:27]  
+[00:06:27]  
+[00:06:27]  ======================================= 
+[00:06:27]  |                                     | 
+[00:06:27]  |        YSI version 4.00.0001        | 
+[00:06:27]  |        By Alex "Y_Less" Cole        | 
+[00:06:27]  |                                     | 
+[00:06:27]  ======================================= 
+[00:06:27]  
+[00:06:27] [OnGameModeInit] Initialising 'Main'...
+[00:06:27] [Database] Connected!
+[00:06:27] 
+----------------------------------------
+[00:06:27]  Gamemode Ucp versi 0.1 register dan login
+[00:06:27] ----------------------------------------
+
+[00:06:27] Number of vehicle models: 0
+[00:06:49] [connection] incoming connection: 127.0.0.1:50555 id: 0
+[00:06:49] [join] Cagus has joined the server (0:127.0.0.1)
+[00:06:49] Resetting player statistics for ID 0
+[00:06:55] Resetting player statistics for ID 0
+[00:06:55] [part] Cagus has left the server (0:1)
+[00:07:17] [connection] incoming connection: 127.0.0.1:50001 id: 0
+[00:07:17] [join] Cagus has joined the server (0:127.0.0.1)
+[00:07:17] Resetting player statistics for ID 0
+[00:07:28] Resetting player statistics for ID 0
+[00:07:28] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:08:07] password = ""  (string)
+[00:08:07] filterscripts = ""  (string)
+[00:08:07] 
+[00:08:07] Server Plugins
+[00:08:07] --------------
+[00:08:07]  Loading plugin: crashdetect
+[00:08:07]   CrashDetect plugin 4.19.4
+[00:08:07]   Loaded.
+[00:08:07]  Loading plugin: sscanf
+[00:08:07] 
+
+[00:08:07]  ===============================
+
+[00:08:07]       sscanf plugin loaded.     
+
+[00:08:07]          Version:  2.8.3        
+
+[00:08:07]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:08:07]  ===============================
+
+[00:08:07]   Loaded.
+[00:08:07]  Loading plugin: streamer
+[00:08:07] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:08:07]   Loaded.
+[00:08:07]  Loading plugin: mysql
+[00:08:07]  >> plugin.mysql: R41-4 successfully loaded.
+[00:08:07]   Loaded.
+[00:08:07]  Loaded 4 plugins.
+
+[00:08:07] 
+[00:08:07] Filterscripts
+[00:08:07] ---------------
+[00:08:07]   Loaded 0 filterscripts.
+
+[00:08:07]  
+[00:08:07]  
+[00:08:07]  
+[00:08:07]  ======================================= 
+[00:08:07]  |                                     | 
+[00:08:07]  |        YSI version 4.00.0001        | 
+[00:08:07]  |        By Alex "Y_Less" Cole        | 
+[00:08:07]  |                                     | 
+[00:08:07]  ======================================= 
+[00:08:07]  
+[00:08:07] [OnGameModeInit] Initialising 'Main'...
+[00:08:07] [Database] Connected!
+[00:08:07] 
+----------------------------------------
+[00:08:07]  Gamemode Ucp versi 0.1 register dan login
+[00:08:07] ----------------------------------------
+
+[00:08:07] Number of vehicle models: 0
+[00:08:28] [connection] incoming connection: 127.0.0.1:57705 id: 0
+[00:08:28] [join] Cagus has joined the server (0:127.0.0.1)
+[00:08:28] Resetting player statistics for ID 0
+[00:08:47] [nick] Cagus nick changed to Cagus_Styler
+[00:10:05] Resetting player statistics for ID 0
+[00:10:05] [part] Cagus_Styler has left the server (0:1)
+[00:10:26] [connection] incoming connection: 127.0.0.1:57248 id: 0
+[00:10:26] [join] Cagus has joined the server (0:127.0.0.1)
+[00:10:26] Resetting player statistics for ID 0
+[00:11:12] Resetting player statistics for ID 0
+[00:11:12] [part] Cagus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:15:59] password = ""  (string)
+[00:15:59] filterscripts = ""  (string)
+[00:15:59] 
+[00:15:59] Server Plugins
+[00:15:59] --------------
+[00:15:59]  Loading plugin: crashdetect
+[00:15:59]   CrashDetect plugin 4.19.4
+[00:15:59]   Loaded.
+[00:15:59]  Loading plugin: sscanf
+[00:15:59] 
+
+[00:15:59]  ===============================
+
+[00:15:59]       sscanf plugin loaded.     
+
+[00:15:59]          Version:  2.8.3        
+
+[00:15:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:15:59]  ===============================
+
+[00:15:59]   Loaded.
+[00:15:59]  Loading plugin: streamer
+[00:15:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:15:59]   Loaded.
+[00:15:59]  Loading plugin: mysql
+[00:15:59]  >> plugin.mysql: R41-4 successfully loaded.
+[00:15:59]   Loaded.
+[00:15:59]  Loaded 4 plugins.
+
+[00:15:59] 
+[00:15:59] Filterscripts
+[00:15:59] ---------------
+[00:15:59]   Loaded 0 filterscripts.
+
+[00:15:59]  
+[00:15:59]  
+[00:15:59]  
+[00:15:59]  ======================================= 
+[00:15:59]  |                                     | 
+[00:15:59]  |        YSI version 4.00.0001        | 
+[00:15:59]  |        By Alex "Y_Less" Cole        | 
+[00:15:59]  |                                     | 
+[00:15:59]  ======================================= 
+[00:15:59]  
+[00:15:59] [OnGameModeInit] Initialising 'Main'...
+[00:15:59] [Database] Connected!
+[00:15:59] 
+----------------------------------------
+[00:15:59]  Gamemode Ucp versi 0.1 register dan login
+[00:15:59] ----------------------------------------
+
+[00:15:59] Number of vehicle models: 0
+[00:16:19] [connection] incoming connection: 127.0.0.1:56908 id: 0
+[00:16:19] [join] Cagus has joined the server (0:127.0.0.1)
+[00:16:19] Resetting player statistics for ID 0
+[00:16:34] [nick] Cagus nick changed to Cagus_Styler
+[00:17:04] Resetting player statistics for ID 0
+[00:17:04] [part] Cagus_Styler has left the server (0:1)
+[00:17:55] [connection] incoming connection: 127.0.0.1:50767 id: 0
+[00:17:55] [join] Cagus has joined the server (0:127.0.0.1)
+[00:17:55] Resetting player statistics for ID 0
+[00:18:02] [nick] Cagus nick changed to Cagus_Styler
+[00:18:26] Resetting player statistics for ID 0
+[00:18:26] [part] Cagus_Styler has left the server (0:1)
