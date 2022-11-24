@@ -20,14 +20,16 @@
 #pragma dynamic 1_048_576
 
 /* Includes */
+#include <a_samp>
+
+#include <a_mysql> 
 #include <streamer>                 //by Incognito
 #include <sscanf2>                  //by Y_Less fixed by maddinat0r & Emmet_
-#include <a_mysql> 
 #include <chrono>                   //by Southclaws
 #include <crashdetect>
+#include <strlib>                   //by Slice
 #include <YSI\y_timers>             //by Y_Less from YSI
 #include <YSI\y_colours>            //by Y_Less from YSI
-#include <strlib>                   //by Slice
 #include <eSelection>
 
 //==========[ MODULAR ]==========
@@ -61,7 +63,7 @@ public OnGameModeInit()
     #if defined main_OnGameModeInit
         return main_OnGameModeInit();
     #else
-    return 1;
+        return 1;
     #endif
 }
 #if defined _ALS_OnGameModeInit
