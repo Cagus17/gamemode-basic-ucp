@@ -98,6 +98,9 @@ enum    _:E_SELECTION_TYPE {
     MODEL_SELECTION_SKIN       
 }
 
+new MySQL:sqlcon;
+new g_RaceCheck[MAX_PLAYERS];
+
 new g_aSpawnMaleSkins[13] = {
     78, 79, 128, 133, 134, 135, 136, 137, 159, 212, 213, 230, 239
 };

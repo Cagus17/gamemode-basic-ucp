@@ -31,9 +31,6 @@
 #include <eSelection>
 #include <lookup>                   //by Emmet_
 
-new MySQL:sqlcon;
-new g_RaceCheck[MAX_PLAYERS];
-
 //==========[ MODULAR ]==========
 #include "../main/define.inc"
 #include "../main/enum.inc"
