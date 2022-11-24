@@ -2,16 +2,6 @@ FUNC::SpawnTimer(playerid)
 {
     if(SQL_IsCharacterLogged(playerid))
     {
-        foreach(new i : Player) if(!PlayerData[i][pDisableLogin])
-        {
-            {
-                new country[24], city[24];
-                GetPlayerCountry(playerid, country, sizeof(country));
-                GetPlayerCity(playerid, city, sizeof(city));
-
-                SendClientMessageEx(i, X11_WHITE,"* "RED"%s "WHITE"is now login to the server%s.",ReturnName(playerid,1), !strcmp(country, "Unknown", true) ? ("") : sprintf("(%s, %s)", city, country));
-            }
-        }
         AccountData[playerid][uLoginDate] = gettime();
         TogglePlayerControllable(playerid, 1);
 

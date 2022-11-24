@@ -1,16 +1,16 @@
-/*
-
-    Â» Basic UCP SA:MP Roleplay Gamemode
-    
-    Â» Credits: Cagus
-			   
-    Â» NOTE: Please don't remove the credits!
-    
-	===== Â» V.0.1 Changelog =====
-	
-	Â» Added Login & Register
-	
-	==========================
-    
-*/
-
+/* ===================================================================
+ *                        Script Information:
+ *
+ * Name: Base Roleplay Script v0.1
+ * Created by: Cagus
+ * Github link: https://github.com/Cagus17/gamemode-basic-ucp
+ *
+ * Thanks to:
+ * SAMP Team
+ * pBlueG for mysql
+ * samp-incognito for streamer
+ * Y_Less for YSI
+ * SouthClaws for chrono
+ * Zeek for crashdetect
+ * ===================================================================
+**/

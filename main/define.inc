@@ -1,5 +1,5 @@
 #define SERVER_NAME                     "Basic ucp v.0.1"
-#define SERVER_URL                      "ComingSoon"
+#define SERVER_URL                      "https://github.com/Cagus17/gamemode-basic-ucp"
 #define SERVER_DISCORD					"Coming Soon"
 #define SERVER_REVISION                 "Basic ucp v.0.1"
 

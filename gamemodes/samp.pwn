@@ -1,18 +1,20 @@
-/*
+/* ===================================================================
+ *                        Script Information:
+ *
+ * Name: Base Roleplay Script v0.1
+ * Created by: Cagus
+ * Github link: https://github.com/Cagus17/gamemode-basic-ucp
+ *
+ * Thanks to:
+ * SAMP Team
+ * pBlueG for mysql
+ * samp-incognito for streamer
+ * Y_Less for YSI
+ * SouthClaws for chrono
+ * Zeek for crashdetect
+ * ===================================================================
+**/
 
-    » Basic UCP SA:MP Roleplay Gamemode
-    
-    » Credits: Cagus
-			   
-    » NOTE: Please don't remove the credits!
-    
-	===== » V.0.5 Changelog =====
-	
-	» Added Login & Register
-	
-	==========================
-    
-*/
 #pragma compat 1
 #pragma compress 0
 #pragma dynamic 1_048_576
@@ -21,15 +23,12 @@
 #include <streamer>                 //by Incognito
 #include <sscanf2>                  //by Y_Less fixed by maddinat0r & Emmet_
 #include <a_mysql> 
-#include <gvar>                     //by Incognito
 #include <chrono>                   //by Southclaws
 #include <crashdetect>
 #include <YSI\y_timers>             //by Y_Less from YSI
 #include <YSI\y_colours>            //by Y_Less from YSI
 #include <strlib>                   //by Slice
-#include <garage_block>             //by Crayder
 #include <eSelection>
-#include <lookup>                   //by Emmet_
 
 //==========[ MODULAR ]==========
 #include "../main/define.inc"
@@ -86,7 +85,6 @@ OnGameModeInit_Setup()
     ManualVehicleEngineAndLights();
     Streamer_ToggleErrorCallback(1);
     SetGameModeText(SERVER_REVISION);
-    BlockGarages(true, GARAGE_TYPE_ALL, "CLOSED");
 
     CallLocalFunction("OnGameModeInitEx", "");
     return 1;
