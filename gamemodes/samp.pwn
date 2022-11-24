@@ -117,6 +117,10 @@ public OnPlayerDisconnect(playerid, reason)
 }
 static SetDefaultSpawn(playerid)
 {
+    SendClientMessageEx(playerid, COLOR_WHITE,"---------------------------------------------------------------------------------------------------------------");
+    SendClientMessageEx(playerid, COLOR_WHITE,"Selamat datang "YELLOW"%s"WHITE", anda telah landing dan sekarang berada di Bandara Los Santos International .", ReturnName(playerid,0));
+    SendClientMessageEx(playerid, COLOR_WHITE,"---------------------------------------------------------------------------------------------------------------");
+
     SetPlayerPosEx(playerid, 1682.4869,-2330.1724,13.5469);
     SetPlayerFacingAngle(playerid, 359.7332);
     SetPlayerInterior(playerid, 0);
@@ -130,13 +134,13 @@ static SetCameraData(playerid)
     {
         case 0:
         {         
-            InterpolateCameraPos(playerid, 1664.715332, -2283.450927, 27.731086, 1647.487182, -2323.924560, 14.597775, 3000, 1);
-            InterpolateCameraLookAt(playerid, 1661.290771, -2285.490234, 27.394948, 1643.885009, -2325.662841, 14.550904, 3000, 1);
+            InterpolateCameraPos(playerid, 1402.380126, -1216.866333, 350.959869, 1660.696655, -1303.045410, 74.042839, 7000);
+            InterpolateCameraLookAt(playerid, 1404.336425, -1219.865234, 347.469909, 1657.485961, -1304.525756, 77.578369, 7000);
         }
         case 1:
         {
-            InterpolateCameraPos(playerid, 1664.715332, -2283.450927, 27.731086, 1647.487182, -2323.924560, 14.597775, 3000, 1);
-            InterpolateCameraLookAt(playerid, 1661.290771, -2285.490234, 27.394948, 1643.885009, -2325.662841, 14.550904, 3000, 1);
+            InterpolateCameraPos(playerid, 1402.380126, -1216.866333, 350.959869, 1660.696655, -1303.045410, 74.042839, 7000);
+            InterpolateCameraLookAt(playerid, 1404.336425, -1219.865234, 347.469909, 1657.485961, -1304.525756, 77.578369, 7000);
         }
     }
     return 1;
@@ -145,9 +149,9 @@ public OnPlayerRequestClass(playerid, classid)
 {
     if(IsValidRoleplayName(ReturnName(playerid)))
     {
-        SendErrorMessage(playerid, "VPRP Account Center tidak sesuai format!");
-        SendErrorMessage(playerid, "Penggunaan Account Center harus mengikuti format nama biasa.");
-        SendErrorMessage(playerid, "Sebagai contoh, Agung, Gajahduduk, KevinSanjaya, DimasNugroho dan lainnya.");
+        SendErrorMessage(playerid, "Format Nama tidak sesuai.");
+        SendErrorMessage(playerid, "Gunakan nama dengan format nama biasa.");
+        SendErrorMessage(playerid, "Sebagai contoh, Cagus, Jordan, Sanjaya lainnya.");
         KickEx(playerid);
     }
     if(!PlayerData[playerid][pKicked])
@@ -186,8 +190,6 @@ public OnPlayerSpawn(playerid)
 
         PlayerData[playerid][pOrigin][0] = '\0';
         PlayerData[playerid][pBirthdate][0] = '\0';
-
-        SendServerMessage(playerid, "Data pada karakter anda belum lengkap, isi data sesuai dengan keadaan karakter.");
 
         SetPlayerPos(playerid, 258.0770, -42.3550, 1002.0234);
         SetPlayerFacingAngle(playerid,45.5218);
